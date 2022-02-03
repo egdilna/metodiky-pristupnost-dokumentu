@@ -1,0 +1,29 @@
+#+CATEGORY: Metodika přístupnosti dokumentů
+#+MACRO: version 0.0
+#+DATE: datum
+#+TITLE: Metodika pro přístupnost dokumentů
+#+AUTHOR: EGdílna.cz a další přispěvatelé
+#+LANGUAGE: cs
+#+OPTIONS: H:4 toc:nil prop:1  
+#+TODO: NEZAHÁJENO(n) ZADÁNO(z) ROZPRACOVANÉ(r) DODĚLAT(d) POKOREKTUŘE UPRAVOVÁNO(u) | KEKOREKTUŘE(k) HOTOVO(h) FINÁLNÍ(f) AKTUALIZOVÁNO(a)
+#+STARTUP: fninline
+#+STARTUP: customtime
+| Název: | {{{TITLE}}} |
+| Předmět: | Ucelený metodický dokument pro pochopení a návody k tvorbě přístupných digitálních dokumentů (nejen) veřejné správy |
+| Verze: | Verze {{{version}}} ze dne {{{DATE(%d.%m.%Y)}}}
+| Autoři: | {{{AUTHOR}}} |
+| Určeno pro: | Všechny veřejnosprávní původce a veřejnoprávní subjekty |
+| Důvod předložení: | Související úkoly OSGA a plnění příbuzných úkolů Národního plánu pro rovné příležitosti OZP. Především ale metodika pro faktické plnění povinnosti přístupných dokumentů. |
+#+TOC: headlines 3
+
+----------
+
+* NEZAHÁJENO Úvod
+** NEZAHÁJENO Účel a použití metodiky
+** NEZAHÁJENO Publikace metodiky a připomínky
+** NEZAHÁJENO Historie verzí
+** NEZAHÁJENO Významy některých technických pojmů
+* NEZAHÁJENO Manažerské shrnutí
+* NEZAHÁJENO Přístupnost dokumentů
+* NEZAHÁJENO Jak na to
+* NEZAHÁJENO Návodné a kontrolní seznamy
