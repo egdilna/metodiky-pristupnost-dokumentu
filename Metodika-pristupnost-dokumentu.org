@@ -25,5 +25,24 @@
 ** NEZAHÁJENO Významy některých technických pojmů
 * NEZAHÁJENO Manažerské shrnutí
 * NEZAHÁJENO Přístupnost dokumentů
+** NEZAHÁJENO Co je přístupnost dokumentů a proč to řešit?
+** NEZAHÁJENO Přístupný dokument a nepřístupný dokument
+** NEZAHÁJENO Přístupnost dokumentů v kontextu spisové služby a správy dokumentů
+*** NEZAHÁJENO Spisová služba jako odborná správa dokumentů
+*** NEZAHÁJENO Druhy a formy dokumentů a jejich správy
+*** NEZAHÁJENO Způsoby vzniku vlastního dokumentu
+** NEZAHÁJENO Legislativní rámec a práva osob
+** NEZAHÁJENO Povinnost vytvářet přístupné dokumenty
+** NEZAHÁJENO Práce s přístupným dokumentem a přínosy přístupnosti
+** NEZAHÁJENO Důsledky nesplnění přístupnosti dokumentů
 * NEZAHÁJENO Jak na to
+** NEZAHÁJENO Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
+** NEZAHÁJENO Náležitosti dokumentů
+*** NEZAHÁJENO Obsahové náležitosti
+*** NEZAHÁJENO Technické náležitosti dokumentu
+** NEZAHÁJENO Přístupnost u druhů a forem dokumentů
+*** NEZAHÁJENO Přístupnost pro digitální dokumenty
+*** NEZAHÁJENO Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií
+** NEZAHÁJENO Jak řešit přístupnost u jednotlivých způsobů vzniku dokumentu
+** NEZAHÁJENO Co je nepřípustné a co nikdy nedělat
 * NEZAHÁJENO Návodné a kontrolní seznamy
