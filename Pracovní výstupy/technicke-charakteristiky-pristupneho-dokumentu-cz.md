@@ -1,7 +1,6 @@
-Překlad z https://www.adobe.com/accessibility/pdf/pdf-accessibility-overview.html
-
-
 # Charakteristika zpřístupněných souborů PDF
+
+(Překlad z https://www.adobe.com/accessibility/pdf/pdf-accessibility-overview.html)
 
 Zpřístupněná PDF obsahují mimo jiné následující charakteristiky: respektive technické náležitosti:
 
@@ -12,6 +11,15 @@ V rámci každého dokumentu se používá logický strom značených struktur, 
 ## Vyhledatelný text
 
 Dokument, který se skládá z naskenovaných obrázků textu, je ze své podstaty nepřístupný, protože obsah dokumentu je grafika představující písmena na stránce, nikoli text, který lze prohledávat. Software asistenční technologie neumí číst nebo extrahovat slova v grafické reprezentaci. Uživatelé navíc nemohou vybrat nebo upravit text nebo manipulovat s PDF kvůli přístupnosti. Naskenované obrázky textu musí být převedeny na text, který lze prohledávat pomocí optického rozpoznávání znaků (OCR) před tím, než bude řešena přístupnost v dokumentu.
+
+## Značky struktury dokumentu a správné pořadí čtení
+
+Pro čtení textu dokumentu a jeho prezentaci způsobem, který dává uživateli smysl, vyžaduje čtečka obrazovky nebo jiný nástroj pro převod textu na řeč, aby byl dokument strukturován. Značky struktury dokumentu v PDF definují pořadí čtení a identifikují nadpisy, odstavce, sekce, tabulky a další prvky stránky. Struktura značek také umožňuje změnu velikosti a opětovné rozložení dokumentů pro prohlížení ve větších velikostech a na mobilních zařízeních.
+
+## Alternativní textové popisy pro netextové prvky
+
+Funkcím dokumentu, jako jsou obrázky a interaktivní pole formulářů, nemůže uživatel čtečky obrazovky porozumět, pokud nemají přidružený alternativní text. Přestože je text odkazu k dispozici uživatelům čtečky obrazovky, je možné poskytnout smysluplnější popisy prostřednictvím náhradního (aktuálního) textu. Alternativní text pro obrázky a nástrojové tipy může pomoci mnoha uživatelům, včetně těch, kteří mají poruchy učení. Musí být také přítomny ekvivalenty pro multimédia, včetně jakýchkoli audio a video prvků.
+
 
 ## Písma, která umožňují extrahovat znaky do textu
 
@@ -33,13 +41,6 @@ Určení jazyka dokumentu v PDF umožňuje některým čtečkám obrazovky přep
 
 Někteří autoři PDF omezují uživatelům tisk, kopírování, extrahování, úpravy nebo přidávání komentářů k textu. Text přístupného PDF musí být k dispozici čtečce obrazovky. Nastavení zabezpečení Acrobatu lze nastavit tak, aby chránilo obsah dokumentu a zároveň nenarušovalo schopnost čtečky obrazovky převést text na obrazovce na řeč nebo Braillovo písmo.
 
-## Značky struktury dokumentu a správné pořadí čtení
-
-Pro čtení textu dokumentu a jeho prezentaci způsobem, který dává uživateli smysl, vyžaduje čtečka obrazovky nebo jiný nástroj pro převod textu na řeč, aby byl dokument strukturován. Značky struktury dokumentu v PDF definují pořadí čtení a identifikují nadpisy, odstavce, sekce, tabulky a další prvky stránky. Struktura značek také umožňuje změnu velikosti a opětovné rozložení dokumentů pro prohlížení ve větších velikostech a na mobilních zařízeních.
-
-## Alternativní textové popisy pro netextové prvky
-
-Funkcím dokumentu, jako jsou obrázky a interaktivní pole formulářů, nemůže uživatel čtečky obrazovky porozumět, pokud nemají přidružený alternativní text. Přestože je text odkazu k dispozici uživatelům čtečky obrazovky, je možné poskytnout smysluplnější popisy prostřednictvím náhradního (aktuálního) textu. Alternativní text pro obrázky a nástrojové tipy může pomoci mnoha uživatelům, včetně těch, kteří mají poruchy učení. Musí být také přítomny ekvivalenty pro multimédia, včetně jakýchkoli audio a video prvků.
 
 Ostatní charakteristiky a funkce zpřístupnění dokumentu
 
