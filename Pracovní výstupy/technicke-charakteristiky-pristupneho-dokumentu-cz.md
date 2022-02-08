@@ -46,10 +46,10 @@ Ostatní charakteristiky a funkce zpřístupnění dokumentu
 
 Existují další charakteristiky přístupných dokumentů včetně:
 
-Nespoléhat se pouze na barvu nebo zrakové  charakteristiky pro zprostředkování významu
-Použití barevných kombinací, které poskytují dostatečný stupeň kontrastu
-Ovládání zvuku
-Použití textu místo obrázků textu
-Žádné použití blikajících nebo blikajících prvků
-Žádné změny zaměření bez iniciace uživatelem
-Konzistentní navigace a identifikace prvků
+- Nespoléhat se pouze na barvu nebo zrakové  charakteristiky pro zprostředkování významu
+- Použití barevných kombinací, které poskytují dostatečný stupeň kontrastu
+- Ovládání zvuku
+- Použití textu místo obrázků textu
+- Žádné použití blikajících nebo blikajících prvků
+- Žádné změny zaměření bez iniciace uživatelem
+- Konzistentní navigace a identifikace prvků
