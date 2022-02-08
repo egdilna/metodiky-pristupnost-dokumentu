@@ -1,10 +1,10 @@
 #+CATEGORY: Metodika přístupnosti dokumentů
-#+MACRO: version 0.0
 #+DATE: datum
+#+MACRO: version 0.0
 #+TITLE: Metodika pro přístupnost dokumentů
 #+AUTHOR: EGdílna.cz a další přispěvatelé
 #+LANGUAGE: cs
-#+OPTIONS: H:4 toc:nil prop:1  
+#+OPTIONS: H:4 toc:nil prop:1
 #+TODO: NEZAHÁJENO(n) ZADÁNO(z) ROZPRACOVANÉ(r) DODĚLAT(d) POKOREKTUŘE UPRAVOVÁNO(u) | KEKOREKTUŘE(k) HOTOVO(h) FINÁLNÍ(f) AKTUALIZOVÁNO(a)
 #+STARTUP: fninline
 #+STARTUP: customtime
@@ -17,32 +17,91 @@
 #+TOC: headlines 3
 
 ----------
+* NEZAHÁJENO Úvod                                         :aktuálněrozdělané:
+SCHEDULED: <2022-02-11 Fri>
+** KEKOREKTUŘE Účel a použití metodiky
+SCHEDULED: <2022-02-08 Tue>
+:LOGBOOK:
+CLOCK: [2022-02-08 út 07:44]--[2022-02-08 út 07:54] =>  0:10
+:END:
+Tento metodický dokument slouží veřejnoprávním původcům pro lepší pochopení a návod na splnění povinnosti tzv. přístupnosti dokumentů. Protože jde o technickou oblast, která vyžaduje hluboké technické znalosti, ukazuje se nezbytným původcům v této oblasti pomoci.
 
-* NEZAHÁJENO Úvod
-** NEZAHÁJENO Účel a použití metodiky
-** NEZAHÁJENO Publikace metodiky a připomínky
-** NEZAHÁJENO Historie verzí
-** NEZAHÁJENO Významy některých technických pojmů
+Dokument je určen dvěma hlavním skupinám uživatelů:
+
+- Manažerům v organizacích původců: V tomto dokumentu se vysvětluje, co je to přístupnost dokumentů, proč ji řešit, jak pomáhá nejen osobám se zdravotním postižením a se specifickými potřebami a především na co nezapomenout a jak do toho. Manažer pak bude vědět, co po kom chtít, aby povinnosti byly řádně splněny.
+- Odborným a technickým  pracovníkům: Tento dokument obsahuje i podrobné technické a procesní informace o přístupnosti digitálních dokumentů, o jednotlivých formátech a jejich podrobných specifikacích a o jejich řešení. Metodici a manažeři spisové služby, ale i IT pracovníci se v něm dozví, co konkrétně musejí zajistit, aby jejich dokumenty v digitální podobě splňovaly veškeré technické požadavky na jejich přístupnost.
+      
+** ROZPRACOVANÉ Publikace metodiky a připomínky               :doplnitodkazy:
+SCHEDULED: <2022-02-08 Tue>
+:LOGBOOK:
+CLOCK: [2022-02-08 út 07:54]--[2022-02-08 út 08:07] =>  0:13
+:END:
+
+Veškeré podrobnosti, včetně předchozích verzí, pracovních podkladů a poznámek a také seznamu a stavu připomínek lze nalézt v otevřeném GIT repozitáři [[https://github.com/egdilna/metodiky-pristupnost-dokumentu][GitHub - egdilna/metodiky-pristupnost-dokumentu: Metodiky pro přístupnost digitálních dokumentů...]]
+
+Aktuální verze je k dispozici vždy na následujících URL adresách:
+
+Webová verze metodiky k náhledu a čtení
+
+- [[https://github.com/egdilna/metodiky-pristupnost-dokumentu/blob/main/Metodika-pristupnost-dokumentu.org][https://github.com/egdilna/metodiky-pristupnost-dokumentu/blob/main/Metodika-pristupnost-dokumentu.org]]
+
+  Ke stažení v otevřeném editovatelném formátu
+
+  -
+
+Jakékoliv připomínky či dotazy a návrhy na změny a doplnění lze přidávat vytvořením nového issue v repozitáři, kde lze také sledovat postup prací a již vytvořené issues a to      [[https://github.com/egdilna/metodiky-pristupnost-dokumentu/issues][v sekci Issues v repozitáři]]
+
+** NEZAHÁJENO Historie verzí                              :aktuálněrozdělané:
+SCHEDULED: <2022-02-11 Fri>
+** HOTOVO Významy některých technických pojmů
+SCHEDULED: <2022-02-08 Tue>
+:LOGBOOK:
+CLOCK: [2022-02-08 út 08:08]--[2022-02-08 út 08:51] =>  0:43
+:END:
+Kromě obecně používaných pojmů z oblasti spisové služby, má přístupnost dokumentů několik vlastních odborných termínů, které se v tomto dokumentu používají a u kterých musí čtenář dobře znát jejich význam:
+
+- Přístupnost dokumentů: Část schopnosti úřadu Správa dokumentů, která zajistí, aby každý dokument vzniklý z vlastní činnosti úřadu byl přístupný (definuje význam a potřeba pojmu)
+- Přístupný dokument: Dokument, s jehož obsahem se může seznámit kdokoliv, tedy i osoba se zdravotním postižením, a to bez nutnosti dodatečného zpracování obsahu dokumentu způsobem, k němuž nebyl dokument určen. (definuje význam a potřeba pojmu)
+- Textová reprezentace: V rámci každého dokumentu se používá logický strom značených struktur, který poskytuje smysluplné pořadí čtení obsahu a také metodu pro definování role strukturálních prvků a vztahu k obsahu stránky. V rámci této struktury značek lze poskytnout další vlastnosti, jako je alternativní text a náhradní text. (definuje překlad ISO specifikací)
+- Kontejner dokumentu: Technická část datového souboru digitálního dokumentu obsahující jednu či více komponent obsahu dokumentu, nebo komponent a jejich textových vrstev (definuje překlad ISO specifikací)
+- Textová vrstva: Reprezentace veškerého významového obsahu dokumentu formou prostého textu a jeho speciálních atributů, aby bylo možno reprezentovat jakýkoliv obsah a jeho druh a význam pouhým čtením prosté textové informace (definuje překlad ISO specifikací)
+- Tagovaný obsah: Textová vrstva obsahu dokumentu, která kromě samotného textu obsahuje i jeho speciální atributy, ze kterých je zřejmé, o jaký typ obsahu se jedná a jaký je jeho význam (definuje překlad ISO specifikací)
+  
+
 * NEZAHÁJENO Manažerské shrnutí
 * NEZAHÁJENO Přístupnost dokumentů
 ** NEZAHÁJENO Co je přístupnost dokumentů a proč to řešit?
-** NEZAHÁJENO Přístupný dokument a nepřístupný dokument
+** NEZAHÁJENO Přístupný dokument a nepřístupný dokument   :aktuálněrozdělané:
+SCHEDULED: <2022-02-11 Fri>
 ** NEZAHÁJENO Přístupnost dokumentů v kontextu spisové služby a správy dokumentů
 *** NEZAHÁJENO Spisová služba jako odborná správa dokumentů
-*** NEZAHÁJENO Druhy a formy dokumentů a jejich správy
-*** NEZAHÁJENO Způsoby vzniku vlastního dokumentu
+*** NEZAHÁJENO Druhy a formy dokumentů a jejich správy    :aktuálněrozdělané:
+SCHEDULED: <2022-02-11 Fri>
+*** ROZPRACOVANÉ Způsoby vzniku vlastního dokumentu       :aktuálněrozdělané:
+SCHEDULED: <2022-02-08 Tue>
+
+- Výstup z elektronického systému spisové služby (ESSL): I přesto, že to úřady často ignorují, jde o jedinou správnou formu vzniku jakéhokoliv dokumentu v úřadu. ESSL je systém, v němž dochází k vyhotovování a finalizaci a odesílání dokumentu. Dokument se vždy vytváří jako digitální dokument se všemi náležitostmi.
+- Výstup generovaný z jiného informačního systému (AIS/ISSD)
+- Dokument doplňovaný ze šablony v rámci informačního systému
+- Ručně vytvářený dokument mimo informační systém (na počítači úředníka)
+- Dokument přijatý jako doručený a poskytnutý jako odeslaný
+- Dokument jiného původce zveřejněný na úřední desce
 ** NEZAHÁJENO Legislativní rámec a práva osob
 ** NEZAHÁJENO Povinnost vytvářet přístupné dokumenty
 ** NEZAHÁJENO Práce s přístupným dokumentem a přínosy přístupnosti
 ** NEZAHÁJENO Důsledky nesplnění přístupnosti dokumentů
 * NEZAHÁJENO Jak na to
 ** NEZAHÁJENO Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
-** NEZAHÁJENO Náležitosti dokumentů
-*** NEZAHÁJENO Obsahové náležitosti
-*** NEZAHÁJENO Technické náležitosti dokumentu
+** NEZAHÁJENO Náležitosti dokumentů                       :aktuálněrozdělané:
+SCHEDULED: <2022-02-08 Tue>
+*** NEZAHÁJENO Obsahové náležitosti                       :aktuálněrozdělané:
+SCHEDULED: <2022-02-08 Tue>
+*** NEZAHÁJENO Technické náležitosti dokumentu            :aktuálněrozdělané:
+SCHEDULED: <2022-02-08 Tue>
 ** NEZAHÁJENO Přístupnost u druhů a forem dokumentů
 *** NEZAHÁJENO Přístupnost pro digitální dokumenty
-*** NEZAHÁJENO Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií
+*** NEZAHÁJENO Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií :aktuálněrozdělané:
+SCHEDULED: <2022-02-08 Tue>
 ** NEZAHÁJENO Jak řešit přístupnost u jednotlivých způsobů vzniku dokumentu
 ** NEZAHÁJENO Co je nepřípustné a co nikdy nedělat
 * NEZAHÁJENO Návodné a kontrolní seznamy
