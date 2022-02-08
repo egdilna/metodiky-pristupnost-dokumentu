@@ -139,8 +139,28 @@ SCHEDULED: <2022-02-08 Tue>
 SCHEDULED: <2022-02-08 Tue>
 ** NEZAHÁJENO Přístupnost u druhů a forem dokumentů
 *** NEZAHÁJENO Přístupnost pro digitální dokumenty
-*** NEZAHÁJENO Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií :aktuálněrozdělané:
+*** KEKOREKTUŘE Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií
 SCHEDULED: <2022-02-08 Tue>
+:LOGBOOK:
+CLOCK: [2022-02-08 Tue 09:03]--[2022-02-08 Tue 10:35] =>  1:32
+:END:
+Co se týče analogového dokumentu, respektive, přístupnosti takového dokumentu adresovaného klientovi veřejné správy, který má určité speciální potřeby vyplývající z podstaty jeho postižení, je důležité, aby takový analogový dokument byl vytvořen podle určitých pravidel, která zajistí, že klient veřejné správy s postižením bude mít maximální možnost se s takovým dokumentem plně seznámit, a to za použití OCR software, který bude schopen dokument kvalitně rozpoznat a převést do elektronické formy přístupné i pro odečítače obrazovky, jež využívají primárně lidé se zrakovým postižením.
+
+Analogový dokument musí splňovat určité standardy, které zajistí nejlepší možný výsledek procesu rozpoznání textu uvedeného v dokumentu prostřednictvím OCR programu. Podstatou OCR programu (Optical Character Recognition) je dokument prvně naskenovat a následně naskenovaný obrázek automatizovaně rozpoznat, tedy  rozpoznat text uvedený na tištěném dokumentu. Výsledek rozpoznání je pak možné exportovat do textového editoru, kde si jej klient veřejné správy může plně prostudovat, nebo je možné výsledek rozpoznání dokumentu prostřednictvím OCR software uložit do kýženého formátu, kupříkladu formátu *.doc, *.docx, *.txt, *.pdf apod.
+
+Aby byl výsledek OCR procesu co nejlepší, je nutné dodržet tato pravidla:
+
+- dokument vždy vytisknout (tzn. použít pro tisk kvalitní kancelářskou techniku)
+- vyvarovat se používání "lesklého" papíru pro tisk dokumentu, tedy křídového papíru či foto papíru (OCR proces bude vykazovat velmi špatný výsledek rozpoznání tehdy, kdy se použije "lesklý" papír, jelikož světlo snímací techniky se odráží zpět a narušuje tak proces rozpoznávání)
+- pro tisk dokumentu používat kvalitní, nejlépe, matný bílý papír (tzn. matný bílý papír velmi napomáhá k maximálně kvalitnímu výsledku OCR procesu)
+- vyvarovat se jakéhokoliv ručního zápisu textu do dokumentu (tzn. nepsat do dokumentu ručně, rukou psaný text není naprosto vhodný pro proces OCR)
+- žádným způsobem do dokumentu dodatečně nezasahovat (tzn. v případě, že se v dokumentu objeví nějaká nesrovnalost, je nutné dokument upravit v jeho digitální podobě, a pak jej opětovně vytisknout)
+- zajistit maximální kontrast popředí a pozadí (tzn. použít maximálně bílý papír, a naopak zvolit co nejtmavší barvu tištěného textu)
+- zvolit optimální velikost tištěného textu (tzn. velikost textu zvolit tak, aby byl text dobře čitelný i pouhým okem)
+- zajistit maximální čitelnost validačních prvků dokumentu (tzn. zajistit čitelnost hodnot úředního razítka a podpisu úřední osoby)
+- zvolit optimální font tištěného písma (tzn. vyvarovat se patkového či jinak graficky náročného fontu písma)
+- zvolit optimální rozvržení textu v ploše dokumentu (tzn. zajistit optimální rozprostření textu v dokumentu, a tak využít celou jeho plochu)
+- analogový dokument posílat neporušené podobě (tzn. zajistit, aby analogový dokument nebyl jakýmkoliv způsobem poničený či deformovaný)
 ** NEZAHÁJENO Jak řešit přístupnost u jednotlivých způsobů vzniku dokumentu
 ** NEZAHÁJENO Co je nepřípustné a co nikdy nedělat
 * NEZAHÁJENO Návodné a kontrolní seznamy
