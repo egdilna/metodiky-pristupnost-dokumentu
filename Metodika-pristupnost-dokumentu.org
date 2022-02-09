@@ -20,7 +20,6 @@
 * NEZAHÁJENO Úvod                                         :aktuálněrozdělané:
 SCHEDULED: <2022-02-11 Fri>
 ** KEKOREKTUŘE Účel a použití metodiky
-SCHEDULED: <2022-02-08 Tue>
 :LOGBOOK:
 CLOCK: [2022-02-08 út 07:44]--[2022-02-08 út 07:54] =>  0:10
 :END:
@@ -31,8 +30,7 @@ Dokument je určen dvěma hlavním skupinám uživatelů:
 - Manažerům v organizacích původců: V tomto dokumentu se vysvětluje, co je to přístupnost dokumentů, proč ji řešit, jak pomáhá nejen osobám se zdravotním postižením a se specifickými potřebami a především na co nezapomenout a jak do toho. Manažer pak bude vědět, co po kom chtít, aby povinnosti byly řádně splněny.
 - Odborným a technickým  pracovníkům: Tento dokument obsahuje i podrobné technické a procesní informace o přístupnosti digitálních dokumentů, o jednotlivých formátech a jejich podrobných specifikacích a o jejich řešení. Metodici a manažeři spisové služby, ale i IT pracovníci se v něm dozví, co konkrétně musejí zajistit, aby jejich dokumenty v digitální podobě splňovaly veškeré technické požadavky na jejich přístupnost.
       
-** ROZPRACOVANÉ Publikace metodiky a připomínky               :doplnitodkazy:
-SCHEDULED: <2022-02-08 Tue>
+** DODĚLAT Publikace metodiky a připomínky                    :doplnitodkazy:
 :LOGBOOK:
 CLOCK: [2022-02-08 út 07:54]--[2022-02-08 út 08:07] =>  0:13
 :END:
@@ -54,7 +52,6 @@ Jakékoliv připomínky či dotazy a návrhy na změny a doplnění lze přidáv
 ** NEZAHÁJENO Historie verzí                              :aktuálněrozdělané:
 SCHEDULED: <2022-02-11 Fri>
 ** HOTOVO Významy některých technických pojmů
-SCHEDULED: <2022-02-08 Tue>
 :LOGBOOK:
 CLOCK: [2022-02-08 út 08:08]--[2022-02-08 út 08:51] =>  0:43
 :END:
@@ -116,31 +113,74 @@ Existují další charakteristiky přístupných dokumentů včetně:
 *** NEZAHÁJENO Spisová služba jako odborná správa dokumentů
 *** NEZAHÁJENO Druhy a formy dokumentů a jejich správy    :aktuálněrozdělané:
 SCHEDULED: <2022-02-11 Fri>
-*** ROZPRACOVANÉ Způsoby vzniku vlastního dokumentu       :aktuálněrozdělané:
-SCHEDULED: <2022-02-08 Tue>
+*** KEKOREKTUŘE Způsoby vzniku vlastního dokumentu
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 15:59]--[2022-02-09 Wed 16:22] =>  0:23
+:END:
+Dokument v úŕadu může vzniknout více různými způsoby. Přestože musejí být vždy dodrženy veškeré povinnosti a procesy správy dokumentů, technických forem vzniku a generování souboru dokumentu je více. Podle jednotlivých způsobů vzniku či získání dokumentu pro jeho odeslání nebo publikaci, platí pochopitelně i rozdílné tecnické postupy.
+
+Můžeme se zabývat těmito základními způsoby vzniku vlastního dokumentu:
 
 - Výstup z elektronického systému spisové služby (ESSL): I přesto, že to úřady často ignorují, jde o jedinou správnou formu vzniku jakéhokoliv dokumentu v úřadu. ESSL je systém, v němž dochází k vyhotovování a finalizaci a odesílání dokumentu. Dokument se vždy vytváří jako digitální dokument se všemi náležitostmi.
-- Výstup generovaný z jiného informačního systému (AIS/ISSD)
-- Dokument doplňovaný ze šablony v rámci informačního systému
-- Ručně vytvářený dokument mimo informační systém (na počítači úředníka)
-- Dokument přijatý jako doručený a poskytnutý jako odeslaný
-- Dokument jiného původce zveřejněný na úřední desce
+- Výstup generovaný z jiného informačního systému (AIS/ISSD): I zde se jedná o automatické generování a tvorbu souboru dokumentu informačním systémem. Dokument v tomto případě negeneruje samotný elektronický systém spisové služby, ale jiný informační systém. Při takovém generování je nutno ale pouźít správnou knihovnu pro generování PDF a dodržet veškeré technické náležitosti pro dokument.
+- Dokument doplňovaný ze šablony v rámci informačního systému: Informační systém nemusí generovat dokument samostatně. V řádě případů uživatel v příslušném systému připraví určité části obsahu a systém je pak doplní do předpřipravené šablony a z ní pak technicky vygeneruje PDF dokument k jeho vyhotovení a finalizaci. I zde je nezbytné dodržet veškeré technické požadavky na výsledné PDF soubory.
+- Ručně vytvářený dokument mimo informační systém (na počítači úředníka): V některých příkladech může dokument technicky vznikat i zcela mimo elektronický systém spisové služby (a musí být pak do ESSL řádně vložen a v něm spravován) a to třeba v textovém editoru nebo v jiné aplikaci na počítači zaměstnance úřadu. I v tomto případě je nutno zajistit jeho správný výstupní formát se všemi technickými náležitostmi.
+- Dokument přijatý jako doručený a poskytnutý jako odeslaný: Původce odesílá/zveřejňuje i dokumenty jiných původců (kupříkladu podklady od jiného OVM či od jiného účastníka řízení). V takovém případě platí povinnosti správy dokumentu v ESSL či ISSD a pokud dokument není ve správném výstupním formátu a je od organizace, která nemá za povinnost vykonávat spisovou službu, musí původce takový dokument převést do výstupniho formátu. Zde je to ale už trochu složitější.
+- Dokument jiného původce zveřejněný na úřední desce: Speciální pŕípad předchozího způsobu. Původce je mnohdy povinen zveřejnit dokument jiného původce na svojí úřední desce. Problém je, pokud ten kdo takový dokument původci zaslal, nesplnil veškeré povinnosti a požadavky na takový dokument. Původce jej má správně nezveřejnit a uložit odesílateli, aby odstranil vady dokumentu a uvedl ho do souladu se zákonem. Vzhledem k tomu, že původce nemůže při zveřejnění dokumentu na úřední desce tímto dokumentem jakkoliv technicky manipulovat, je to jediný legální způsob, jak požadavky zajistit.
+
 ** NEZAHÁJENO Legislativní rámec a práva osob
 ** NEZAHÁJENO Povinnost vytvářet přístupné dokumenty
 ** NEZAHÁJENO Práce s přístupným dokumentem a přínosy přístupnosti
 ** NEZAHÁJENO Důsledky nesplnění přístupnosti dokumentů
 * NEZAHÁJENO Jak na to
 ** NEZAHÁJENO Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
-** NEZAHÁJENO Náležitosti dokumentů                       :aktuálněrozdělané:
-SCHEDULED: <2022-02-08 Tue>
-*** NEZAHÁJENO Obsahové náležitosti                       :aktuálněrozdělané:
-SCHEDULED: <2022-02-08 Tue>
-*** NEZAHÁJENO Technické náležitosti dokumentu            :aktuálněrozdělané:
-SCHEDULED: <2022-02-08 Tue>
+** ROZPRACOVANÉ Náležitosti dokumentů
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 15:32]--[2022-02-09 Wed 15:39] =>  0:07
+CLOCK: [2022-02-09 Wed 15:12]--[2022-02-09 Wed 15:14] =>  0:02
+:END:
+U dokumentů ve spisové službě jsou velice důležité jejich náležitosti. Ať už se jedná o rozhodnutí, nebo o formulář, či o jiný druh dokumentu. Veřejnoprávní původci jsou povinni vytvářet jen takové dokumenty, které splňují veškeré technické požadavky a obsahové a procesní náležitosti. Celá řada z nich pak také souvisí právě s přístupností dokumentu a s jeho identifikací a určením zodpovědné osoby, která taktéž zodpovídá za přístupnost a na niž se může uživatel asistivních technologií v případě problémů a nejasností obrátit.
+*** KEKOREKTUŘE Obsahové náležitosti
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 15:14]--[2022-02-09 Wed 15:26] =>  0:12
+:END:
+Obecné náležitosti stanovuje Vyhláška o podrobnostech výkonu spisové služby, další obsahové náležitosti pak stanovují další předpisy (třeba Správní řád, apod.) Platí ale, že každý dokument vzniklý veřejnoprávním původcem bez výjimky musí mít určité obsahové náležitosti, které jsou právě definovány příslušným uastanovením vyhlášky. Tyto náležitosti jsou soućástí dokumentu také proto, aby v případě jakýchkoliv problémů a nejasností mohl být konkrétní dokument jednoznačně identifikován a to platí i o konkrétní osobě za dokument odpovědné a o organizaci původce.
+
+
+Základní náležitosti z pohledu obsahu a identifikace dokumentu jsou:
+
+- - Označení původce
+- Číslo jednací nebo Evidenční číslo ze samostatné evidence
+- Číslo jednací nebo evidenční číslo doručeného dokumentu, jedná-li se o odpověď
+- Jméno, příjmení a funkce fyzické osoby pověřené jeho podpisem/vyřízením 
+- Datum podpisu/vyřízení dokumentu
+- Podpis (kvalifikovaný elektronický podpis nebo kvalifikovanou elektronickou pečeť) a časové razítko (kvalifikované elektronické časové razítko k podpisu/pečetění)
+- Počet listů, počet příloh/částí
+
+*** KEKOREKTUŘE Technické a procesní náležitosti dokumentu
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 15:39]--[2022-02-09 Wed 15:39] =>  0:00
+CLOCK: [2022-02-09 Wed 15:09]--[2022-02-09 Wed 15:32] =>  0:23
+:END:
+Technické a procesní náležitosti dokumentu jsou náležitosti a postupy, které po technické stránce zaručují platnost dokumentu. Obdobně jako u náležitostí obsahových tedy platí, pokud některá z uvedených věcí neplatí a není splněna, dokument nevznikl v souladu se zákonem. Proto je třeba se i těmto náležitostem důkladně věnovat.
+
+
+- Dokument vznikl jako digitální dokument a po celou dobu je evidován a je s ním zacházeno jako s digitálním
+- Dokument, jeho životní cyklus a každá událost s ním spojená jsou evidovány v ESSL nebo v ISSD a je řádně veden jeho transakční protokol
+- Dokument má jasný identifikátor, kterým je buď Číslo jednací, nebo Evidenční číslo ze samostatné evidence
+- K dokumentu jsou řádně evidována veškerá jeho povinná metadata a veškeré subjekty, jichž se týká (zejména odesílatel nebo příjemce)
+- Dokument je řádně vyhotoven a zkontrolován před odesláním
+- Dokument je vždy ve správném výstupním formátu dle jeho druhu a určení, může existovat pak i v dalších formátech
+- Dokument musí obsahovat textovou vrstvu, a to dle specifikace konkrétního výstupního formátu, za její soulad zodpovídá vyřizující osoba a původce
+- Dokument v okamžiku vyhotovení a validace obsahuje řádné kvalifikované validační prvky (elektronický podpis, elektronické časové razítko, elektronickou pečeť) v úrovni kvalifikované
+- Dokument byl odeslán (zveřejnění je formou odeslání) řádným způsobem
+- Lze kdykoliv z ESSL a transakčního protokolu dohledat každou událost, a to včetně zodpovědné osoby
+
+Ne vše si může ověřit uživatel na svém zařízení, ale vše se dá ověřit zpětně. Co se týče technických poźadavků (výstupní formát, textová vrstva a datová strktura), ty pak přímo souvisí s čitelností a přístupností a se zpracováním obsahu dokumentu.
+
 ** NEZAHÁJENO Přístupnost u druhů a forem dokumentů
 *** NEZAHÁJENO Přístupnost pro digitální dokumenty
 *** KEKOREKTUŘE Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií
-SCHEDULED: <2022-02-08 Tue>
 :LOGBOOK:
 CLOCK: [2022-02-08 Tue 09:03]--[2022-02-08 Tue 10:35] =>  1:32
 :END:
