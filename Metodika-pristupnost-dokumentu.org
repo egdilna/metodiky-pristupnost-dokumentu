@@ -29,7 +29,7 @@ Dokument je určen dvěma hlavním skupinám uživatelů:
 
 - Manažerům v organizacích původců: V tomto dokumentu se vysvětluje, co je to přístupnost dokumentů, proč ji řešit, jak pomáhá nejen osobám se zdravotním postižením a se specifickými potřebami a především na co nezapomenout a jak do toho. Manažer pak bude vědět, co po kom chtít, aby povinnosti byly řádně splněny.
 - Odborným a technickým  pracovníkům: Tento dokument obsahuje i podrobné technické a procesní informace o přístupnosti digitálních dokumentů, o jednotlivých formátech a jejich podrobných specifikacích a o jejich řešení. Metodici a manažeři spisové služby, ale i IT pracovníci se v něm dozví, co konkrétně musejí zajistit, aby jejich dokumenty v digitální podobě splňovaly veškeré technické požadavky na jejich přístupnost.
-** DODĚLAT Publikace metodiky a připomínky                    :doplnitodkazy:
+** KEKOREKTUŘE Publikace metodiky a připomínky                :doplnitodkazy:
 :LOGBOOK:
 CLOCK: [2022-02-08 út 07:54]--[2022-02-08 út 08:07] =>  0:13
 :END:
@@ -47,7 +47,8 @@ Webová verze metodiky k náhledu a čtení
   -
 
 Jakékoliv připomínky či dotazy a návrhy na změny a doplnění lze přidávat vytvořením nového issue v repozitáři, kde lze také sledovat postup prací a již vytvořené issues a to      [[https://github.com/egdilna/metodiky-pristupnost-dokumentu/issues][v sekci Issues v repozitáři]]
-** NEZAHÁJENO Historie verzí
+** HOTOVO Historie verzí
+Toto je první verze metodiky z března 2022. V případě dalších verzí zde bude jejich seznam a u každé verze také popis změn.
 ** HOTOVO Významy některých technických pojmů
 :LOGBOOK:
 CLOCK: [2022-02-08 út 08:08]--[2022-02-08 út 08:51] =>  0:43
@@ -63,9 +64,31 @@ Kromě obecně používaných pojmů z oblasti spisové služby, má přístupno
 * NEZAHÁJENO Manažerské shrnutí
 * NEZAHÁJENO Přístupnost dokumentů
 ** NEZAHÁJENO Co je přístupnost dokumentů a proč to řešit?
-** NEZAHÁJENO Přístupný dokument a nepřístupný dokument   :aktuálněrozdělané:
-SCHEDULED: <2022-02-11 Fri>
-*** NEZAHÁJENO Co je to vlastně přístupný dokument a jak se s ním dá pracovat
+** KEKOREKTUŘE Přístupný dokument a nepřístupný dokument  :aktuálněrozdělané:
+CLOSED: [2022-02-14 Mon 12:27] SCHEDULED: <2022-02-11 Fri>
+:LOGBOOK:
+CLOCK: [2022-02-14 Mon 12:21]--[2022-02-14 Mon 12:27] =>  0:06
+:END:
+Je důležité co nejlíp porozumět tomu, jaký dokument je a není přístupný. Přístupné dokumenty jsou sice povinnost, ale především je to nutnost. Pro uživatele je totiž řádně čitelný jen přístupný dokument.
+*** KEKOREKTUŘE Co je to vlastně přístupný dokument a jak se s ním dá pracovat
+SCHEDULED: <2022-02-14 Mon>
+:LOGBOOK:
+CLOCK: [2022-02-15 Tue 09:05]--[2022-02-15 Tue 09:10] =>  0:05
+CLOCK: [2022-02-15 Tue 09:01]--[2022-02-15 Tue 09:04] =>  0:03
+CLOCK: [2022-02-15 Tue 06:25]--[2022-02-15 Tue 07:10] =>  0:45
+CLOCK: [2022-02-14 Mon 12:28]--[2022-02-14 Mon 12:47] =>  0:19
+:END:
+Přístupný dokument je digitální dokument, který je technicky vytvořen tak, že s ním a s jeho obsahem může pracovat kdokoliv a to včetně osob se zdravotním postižením.ti totiž potřebují pracovat s textem jeho obsahu. Dokument třeba ve formátu PDF nemusí být totiž přístupný jen proto, že je v PDF. To co vidí běžný uživatel na obrazovce totiž může být jen obrazová informace, nikoliv text ve strojově čitelném formátu. Představte si to jako kdybyste se pokusili editovat v textovém editoru pouhý obrázek textu. Nemůžete ho upravovat a ani text z něj zkopírovat do jiného dokumentu. A přesně takhle technicky funguje práce s textovým obsahem přístupného dokumentu. Uživatelé, kteří text nevidí, si jej musí nechat přečíst buď počítačovým hlasem a nebo na braillském řádku braillovým písmem. Pokud je dokument vytvořen správně, tak se s jeho obsahem může takový uživatel seznámit jako ostatní, ale kdokoliv si z textu dokumentu může i cokoliv zkopírovat a nebo poznamenat. Zkrátka, nepracuje s obrazem viditelným na obrazovce, ale s textem jako v textovém editoru. Formát PDF/a navíc zajistí, že s obsahem dokumentu nikdo nemůže manipulovat a v textu něco změnit. Uživatel vždy věří obsahu textové vrstvy a proto je zásadní požadavek na shodu obrazu s textem.
+
+Jak se s přístupným dokumentem pracuje? Běžný úživatel s ním pracuje zcela klasicky jako s jakýmkoliv jiným dokumentem, nicméně může využívat výhody, jako je hledání v textu, možnost si část textu označit a zkopírovat a nebo si dokument nechat číst nahlas umělým hlasem (to se hodí zejména u delších dokumentů a elektronických knih). Také informační systémy a aplikace mohou těžit z toho, že dokument obsahuje strojově čitelný text a tak lze v takových dokumentech třeba i indexována, nebo prohledávat celé složky na konkrétní text.
+
+Uživatel s nějakým zdravotním postižením (většinou se pochopitelně jedná o nevidomé či slabozraké) používá tzv. "Asistivní technologie", tedy software schopný text číst umělým hlasem, či zobrazit na braillském řádku. Nebo software umožňující mu upravit obraz (zvětšit a zvíraznit text, obrátit barvy, apod.). Takzvané odečítače obrazovky zprostředkovávájí jakýkoliv textový obsah viditelný na obrazovce a tedy i text dokumentu. Zatímco třeba na webových stránkách a nebo v textovém editoru to není problém, u procházení digitálního dokumentu v PDF záleží právě na tom, jestli dané PDF má textovou reprezentaci a textovou vrstvu Bez ní se jedná jen o obrazové PDF a to z principu čitelné není. S textovou vrstvou ale uživatel prochází text dokumentu jako na webové stránce a to včetně případných odkazů, nadpisů, částí a popsaných obrázků. Uživatel asistivních technologií může dokumentem procházet, číst jednotlivá slova, věty či celé odstavce, rychle se přesouvat mezi částmi textu, nadpisy, odkazy, formulářovými prvky a dalším typem obsahu. Pro něj je to tak jediná cesta, jak s takovým digitálním dokumentem pracovat.
+
+Pracovat svým způsobem může i s analogovým (listinným) dokumentem a to jeho naskenováním a ppřevodem OCR, ale to zdaleka není tak pohodlné a především to není stoprocentní. Více v kapitole [[*Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií][Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií]]. Protože ale veřejnoprávní původci musejí povinně vytvářet výhradně digitální dokumenty, takováto situace defacto vůbec nemůže nastat. Ale velice podobné to může být s naskenovaným PDF dokumentem. Taková situace u vlastních dokumentů původce ale také nesmí nastat, neboť by tím byl porušen zákon ve formě vyhotovení druhu a formátu dokumentu.
+
+Dokument musí splňovat základní [[*Technické charakteristiky a vlastnosti přístupného dokumentu][Technické charakteristiky a vlastnosti přístupného dokumentu]] aby byl pro každého uživatele a každý systém zcela přístupný. U dokumentů veřejné správy je to o to důležitější, že v takových dokumentech jsou pro uživatele mnohdy zcela zásadní informace a určují a mění jeho práva a povinnosti. I proto je přístupnost nezbytností. Navíc oběma stranám to ušetří spoustu času a nervů, také úředník může těžit z textové reprezentace dokumentu při své běžné práci i při úkonech, které v elektronickém systému spisové služby nedělá tak často (kupříkladu hledání v rozsáhlé databázi dokumentů).
+
+Uživatelé se zdravotním postižením velice často a rádi využívají digitalizaci a digitální komunikaci s úřadem, ostatně eGovernment má jako jeden z důvodů také rovnost a přístupnost, neboť v digitální formě je vše daleko přístupnější, než v listinné. K takovému uživateli se dokumenty dostanou buď prostřednictvím jeho datové schránky (je-li příjemcem) a nebo si je najde na internetových stránkách a nově i v elektronických aplikacích či na portálu po přihlášení. Dokument si buď stáhne do zařízení nebo si jej rovnou zobrazí. Dnes je PDF prohlížeč s integrovaným odečítačem (podporou pro Asistivní technologie) součástí i každého webového prohlížeče, ale existují i specializované programy pro práci s PDF, jako je Acrobat Reader, nebo třeba i Microsoft Word. (Ve kterém se dá PDF také otevřít).
 *** KEKOREKTUŘE Technické charakteristiky a vlastnosti přístupného dokumentu
     :LOGBOOK:
     CLOCK: [2022-02-04 pá 08:07]--[2022-02-08 út 09:10] => 97:03
@@ -103,7 +126,11 @@ Existují další charakteristiky přístupných dokumentů včetně:
 - Žádné použití blikajících nebo blikajících prvků
 - Žádné změny zaměření bez iniciace uživatelem
 - Konzistentní navigace a identifikace prvků
-** NEZAHÁJENO Přístupnost dokumentů v kontextu spisové služby a správy dokumentů
+** KEKOREKTUŘE Přístupnost dokumentů v kontextu spisové služby a správy dokumentů
+   :LOGBOOK:
+   CLOCK: [2022-02-15 Tue 09:10]--[2022-02-15 Tue 09:12] =>  0:02
+   :END:
+Instituce veřejného sektoru se souhrnně nazývají takzvanými veřejnoprávními původci. To jsou organizace a instituce, nejen úřady, které mají za povinnost tzv. výkon spisové služby. Stručně řečeno, spisová služba je vše co se týká zprávy dokumentů a to zejména u digitálních dokumentů. Tedy i přístupnost textového obsahu dokumentů je součástí této spisové služby. Proto je přístupnost dokumentů jednou s povinností výkon spisové služby.
 *** NEZAHÁJENO Spisová služba jako odborná správa dokumentů
 *** KEKOREKTUŘE Druhy a formy dokumentů a jejich správy
 :LOGBOOK:
