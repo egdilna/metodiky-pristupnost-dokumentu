@@ -11,3 +11,4 @@
 
 1. OrgMode je formát hlavního dokumentu výstupu. Pokud o něm nic nevíte, přečtěte si o něm něco, než začnete navrhovat úpravy.
 2. Orgmode má sice podporu GitHubu, ale zdaleka ne ideální. To co je vidět u ORG souborů v náhledu je tedy mnohdy dost vzdálené od finálního výstupu. Odborníkům doporučujeme si raději procházet ORG soubory v jejich zdroji a ne v náhledu z GitHubu.
+3. Při každé velké verzi či změně ORG dokumentu je vhodné provádět konverzi do jiných formátů, jsou-li u daného dokumentu v repository aplikovány.
