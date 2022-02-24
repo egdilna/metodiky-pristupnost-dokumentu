@@ -9,4 +9,6 @@ Samotná metodika je ORGMODE soubor v tomto repozitáři na adrese
 
 [https://github.com/egdilna/metodiky-pristupnost-dokumentu/blob/main/Metodika-pristupnost-dokumentu.org
 
-V této složce najdete také historii pracovních verzí a budou zde i další formáty metodiky ke stažení. Hlavním souborem je ORG soubor, který umí i interaktivní náhled, takže pokud nemusíte, nebudete si muset nic stahovat.
+V této složce najdete také historii pracovních verzí a budou zde i další formáty metodiky ke stažení. Hlavním souborem je ORG soubor, který umí i interaktivní náhled, takže pokud nemusíte, nebudete si muset nic stahovat. Vždy, prosím, pracujte s aktuální verzí metodiky. Metodika obsahuje také přehled změn v jednotlivých hlavních verzích.$$
+
+$$
