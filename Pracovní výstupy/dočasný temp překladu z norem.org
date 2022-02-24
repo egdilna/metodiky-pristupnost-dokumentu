@@ -1,0 +1,26 @@
+překlad z https://www.w3.org/WAI/WCAG21/Techniques
+
+
+• PDF1: Aplikování textových alternativ na obrázky prostřednictvím značek ALT v PDF 
+• PDF2: Vytváření záložek v PDF dokumentech ze struktury a nadpisů
+• PDF3: Zajištění správného pořadí prvků pro čtení a pohyb tabulátorem 
+• PDF4: Skrytí dekorativních obrázků prostřednictvím značek ARTIFACT
+• PDF5: Správná indikace požadovaných ovládacích prvků formulářů v PDF formulářích
+• PDF6: Použití značek a prvků tabulky pro značkování tabulek v PDF
+• PDF7: Provádění OCR na naskenovaném PDF dokumentu pro poskytnutí aktuálního textu
+• PDF8: Poskytování definic zkratek prostřednictvím E položky pro prvek struktury
+• PDF9: Poskytování nadpisů označováním obsahu značkami nadpisů v PDF dokumentech
+• PDF10: Poskytování popisků pro interaktivní ovládací prvky formulářů v PDF dokumentech
+• PDF11: Poskytování odkazů a odkazovaného textu pomocí Link anotace a prvku /Link struktury v PDF dokumentech
+• PDF12: Poskytování informací o názvu, roli, hodnotě polí formuláře v PDF dokumentech
+• PDF13: Poskytování náhradního textu pomocí /Alt položky pro odkazy v PDF dokumentech
+• PDF14: Poskytování spuštěných záhlaví a zápatí v dokumentech PDF
+• PDF15: Poskytování odesílacích tlačítek s akcí odesílacího formuláře ve formulářích PDF
+• PDF16: Nastavení výchozího jazyka pomocí položky /Lang v katalogu dokumentů PDF
+• PDF17: Určení konzistentního číslování stránek pro dokumenty PDF
+• PDF18: Určení názvu dokumentu pomocí položky Titulek v informačním slovníku dokumentů PDF
+• PDF19: Určení jazyka pro pasáž nebo frázi s položkou Lang v dokumentech PDF
+• PDF20: Použití editoru tabulek Adobe Acrobat Pro pro opravu chybně označených tabulek
+• PDF21: Použití značek Seznam pro seznamy v dokumentech PDF
+• PDF22: Označení, kdy vstup uživatele spadá mimo požadovaný formát nebo hodnoty ve formulářích PDF
+• PDF23: Poskytování interaktivních ovládacích prvků formulářů v dokumentech PDF
