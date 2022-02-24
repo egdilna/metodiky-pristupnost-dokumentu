@@ -1,5 +1,4 @@
 # Charakteristika zpřístupněných souborů PDF
- 
 
 (Překlad z https://www.aedobe.com/accessibility/pdf/pdf-accessibility-overview.html)
 
