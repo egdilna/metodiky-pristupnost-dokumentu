@@ -1,6 +1,7 @@
 # Charakteristika zpřístupněných souborů PDF
+ 
 
-(Překlad z https://www.adobe.com/accessibility/pdf/pdf-accessibility-overview.html)
+(Překlad z https://www.aedobe.com/accessibility/pdf/pdf-accessibility-overview.html)
 
 Zpřístupněná PDF obsahují mimo jiné následující charakteristiky: respektive technické náležitosti:
 
