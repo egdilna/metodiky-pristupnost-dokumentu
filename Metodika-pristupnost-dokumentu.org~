@@ -62,11 +62,7 @@ Kromě obecně používaných pojmů z oblasti spisové služby, má přístupno
 - Textová vrstva: Reprezentace veškerého významového obsahu dokumentu formou prostého textu a jeho speciálních atributů, aby bylo možno reprezentovat jakýkoliv obsah a jeho druh a význam pouhým čtením prosté textové informace (definuje překlad ISO specifikací)
 - Tagovaný obsah: Textová vrstva obsahu dokumentu, která kromě samotného textu obsahuje i jeho speciální atributy, ze kterých je zřejmé, o jaký typ obsahu se jedná a jaký je jeho význam (definuje překlad ISO specifikací)
 * NEZAHÁJENO Manažerské shrnutí
-* KEKOREKTUŘE Přístupnost dokumentů
-  :LOGBOOK:
-  CLOCK: [2022-02-24 Thu 09:46]--[2022-02-24 Thu 11:20] =>  1:34
-  :END:
-Tuto část berte jako teoretickou a znalostní základnu.
+* NEZAHÁJENO Přístupnost dokumentů
 ** NEZAHÁJENO Co je přístupnost dokumentů a proč to řešit?
 ** POKOREKTUŘE Přístupný dokument a nepřístupný dokument
 CLOSED: [2022-02-14 Mon 12:27] SCHEDULED: <2022-02-11 Fri>
@@ -130,7 +126,7 @@ Existují další charakteristiky přístupných dokumentů včetně:
 - Žádné použití blikajících prvků
 - Žádné změny zaměření bez iniciace uživatelem
 - Konzistentní navigace a identifikace prvků
-** POKOREKTUŘE Přístupnost dokumentů v kontextu spisovté služby a správy dokumentů
+** POKOREKTUŘE Přístupnost dokumentů v kontextu spisové služby a správy dokumentů
    :LOGBOOK:
    CLOCK: [2022-02-15 Tue 09:10]--[2022-02-15 Tue 09:12] =>  0:02
    :END:
