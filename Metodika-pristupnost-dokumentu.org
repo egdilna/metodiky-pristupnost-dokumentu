@@ -183,8 +183,9 @@ Můžeme se zabývat těmito základními způsoby vzniku vlastního dokumentu:
 ** NEZAHÁJENO Důsledky nesplnění přístupnosti dokumentů
 * NEZAHÁJENO Jak na to
 ** NEZAHÁJENO Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
-** ROZPRACOVANÉ Náležitosti dokumentů
+** KEKOREKTUŘENáležitosti dokumentů
 :LOGBOOK:
+CLOCK: [2022-2-25 Fri 8:40]--[2022-2-25 Fri 8:42] =>  0:2
 CLOCK: [2022-02-09 Wed 15:32]--[2022-02-09 Wed 15:39] =>  0:07
 CLOCK: [2022-02-09 Wed 15:12]--[2022-02-09 Wed 15:14] =>  0:02
 :END:
