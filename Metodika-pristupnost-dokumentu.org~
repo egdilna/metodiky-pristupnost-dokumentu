@@ -179,7 +179,7 @@ Můžeme se zabývat těmito základními způsoby vzniku vlastního dokumentu:
 ** NEZAHÁJENO Důsledky nesplnění přístupnosti dokumentů
 * NEZAHÁJENO Jak na to
 ** NEZAHÁJENO Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
-** ROZPRACOVANÉ Náležitosti dokumentů
+** KEKOREKTUŘE Náležitosti dokumentů
 :LOGBOOK:
 CLOCK: [2022-02-09 Wed 15:32]--[2022-02-09 Wed 15:39] =>  0:07
 CLOCK: [2022-02-09 Wed 15:12]--[2022-02-09 Wed 15:14] =>  0:02
@@ -244,6 +244,20 @@ Aby byl výsledek OCR procesu co nejlepší, je nutné dodržet tato pravidla:
 - zvolit optimální font tištěného písma (tzn. vyvarovat se používání patkového či jinak graficky náročného fontu písma)
 - zvolit optimální rozvržení textu v ploše dokumentu (tzn. zajistit optimální rozprostření textu v dokumentu, a tak využít celou jeho plochu)
 - analogový dokument posílat v neporušené podobě (tzn. zajistit, aby analogový dokument nebyl jakýmkoliv způsobem poničený či deformovaný)
+*** KEKOREKTUŘE Přístupnost u dynamických druhů dokumentů
+kromě textových a statických dokumentů, které jsou ze své podstaty vhodné pro úplné zpřístupnění obsahu, je nezbytné se věnovat také přístupnosti u ostatních druhů dokumentů. Tato metodika nemá za cíl ukázat technická řešení pro přístupnost dynamických dokumentů,  přesto je nutné a vhodné pro jednotlivé dynamické druhy dokumentů dodržovat následující základní principy:
+
+- U zvukových záznamů
+    - K záznamu přidat obecný popis, co záznam obsahuje, aby si i neslyšící udělal základní představu o jeho významu
+    - U záznamů kde je to obsahově významné a vhodné, zajistit doslovný textový přepis mluveného slova
+    - Mluvené slovo na záznamu namlouvat srozumitelně a pokud záznam obsahuje zvukový podkres pod mluveným slovem, zajistit jeho hlasitost tak nízkou, aby nerušila mluvené slovo.
+- U obrazového záznamu a videa
+    - Platí vše jako u zvukového záznamu, pokud video obsahuje i zvukové stopy
+    - Vhodný je také doslovný textový přepis, nebo dokonce překlad do znakového jazyka
+    - Tam, kde je to vhodné, opatřit video zvláštní zvukovou stopou audiopopisu ve správném technickém formátu
+    - Textový přepis prezentovat ve formě titulků na textovém základě v patřičném standardu pro titulky, tedy nevkládat je přímo do videostopy, ale zajistit je jako samostatný kontejner ve videu s textovým obsahem
+    - Pokud jde o informativní video s jedním mluvčím, zajistit, aby byl mluvčí po celou dobu záznamu zřetelně vidět a aby zřetelně artikuloval pro případné odesílání, nebo video opatřit překladem do znakového jazyka s mluvící hlavou, aby bylo možno odezírat
+
 ** NEZAHÁJENO Jak řešit přístupnost u jednotlivých způsobů vzniku dokumentu
 ** NEZAHÁJENO Co je nepřípustné a co nikdy nedělat
 * NEZAHÁJENO Návodné a kontrolní seznamy
