@@ -284,7 +284,10 @@ Technické a procesní náležitosti dokumentu jsou náležitosti a postupy, kte
 
 Ne vše si může ověřit uživatel na svém zařízení, ale vše se dá ověřit zpětně. Co se týče technických požadavků (výstupní formát, textová vrstva a datová struktura), ty pak přímo souvisejí s čitelností a přístupností a se zpracováním obsahu dokumentu.
 ** NEZAHÁJENO Přístupnost u druhů a forem dokumentů
-*** NEZAHÁJENO Přístupnost pro digitální dokumenty
+*** ROZPRACOVANÉ Přístupnost pro digitální dokumenty
+    :LOGBOOK:
+    CLOCK: [2022-03-01 Tue 07:40]--[2022-03-01 Tue 08:26] =>  0:46
+    :END:
 *** POKOREKTUŘE Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií
 :LOGBOOK:
 CLOCK: [2022-02-08 Tue 09:03]--[2022-02-08 Tue 10:35] =>  1:32
