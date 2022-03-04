@@ -260,12 +260,28 @@ Jak už bylo několikrát v tomto dokumentu nastíněno, přístupnost dokument�
 
 V každém případě tedy technickou stránku přístupnosti řeší aplikace, ve které se dokument Vytváří či generuje. Níže jsou pak rozebrány podle jednotlivých forem vzniku dokumentů způsoby, jakým se obecně přístupnost textového obsahu dokumentu zajistí.
 
-#### 🖋Pro dokumenty generované informačními systémy
+#### KEKOREKTUŘE Pro dokumenty generované informačními systémy
 
-- [ ] Dopsat i s odkazem na ty formy vzniku
 
-V podkapitole [Způsoby vzniku vlastního dokumentu] jsou v prvních bodech popsány situace, kdy dokument vzniká automaticky vygenerováním a to v informačním systému.
 
+V podkapitole [Způsoby vzniku vlastního dokumentu](#zp%C5%AFsoby-vzniku-vlastn%C3%ADho-dokumentu+) jsou v prvních bodech popsány situace, kdy dokument vzniká automaticky vygenerováním a to v informačním systému.
+
+Ať už dokument generuje ESSL nebo jiný informační systém či aplikace, musí se pro vytváření PDF používat taková knihovna PDF generátoru, která umí vygenerovat skutečně správný PDF dokument. Za to je plně zodpovědný autor a dodavatel příslušného systému.
+
+Dá se k tomu přistupovat třemi různými způsoby:
+
+1. PDF dokumenty generuje pouze elektronický systém spisové služby a žádný jiný informační systém
+2. Dokumenty generuje elektronický systém spisové služby a také ostatní systémy, ale tak, že pro generování dokumentu využívají službu generátoru PDF elektronického systému spisové služby
+3. Dokumenty generují i ostatní informační systémy a každý má vlastní knihovnu generátoru PDF
+
+V prvních dvou případech je za správný dokument, vćetně přístupnosti, zajistí příslušná komponenta knihovny v elektronickém systému spisové služby. ESSL používá pro samotné technické vytvoření PDF dokumentu knihovnu pro generování PDF. Ta buď z připravených dat PDF sestaví a nebo existující obsah (třeba z formátu MS Word) převede do PDF. Při obou těchto postupech musí ale výsledkem být validní PDF. Při třetí variantě kromě ESSL mají své knihovny pro generování dokumentů také ostatní informační systémy a aplikace a tedy se musí pro každou takovou knihovnu zajistit stoprocentní funkčnost. Za knihovny generátorů PDF jsou pak zodpovědní jednotliví dodavatelé systémů. Prostřední varianta znamená, že i ostatní aplikace využívají knihovnu v rámci ESSL a tedy je jasné, že takto generované dokumenty mají stejný technický formát, jako dokumenty z ESSL.
+
+Na co si dát u knihovny generátoru PDF pozor?
+
+- Musí umět jednak sestavit PDF z dat a jednak provést konverzi jiného běžného formátu do PDF
+- Výstupem musí být PDF/a dle povinného výstupního formátu dokumentu.
+- Výsledné PDF/a musí splňovat veškeré požadavky technické normy pro PDF/a formát a technické normy pro přístupnost PDF/a dokumentů.
+- Výsledné PDF musí být přístupné, tedy splňovat [technické charakteristiky a funkce přístupných dokumentů](#technick%C3%A9-charakteristiky-a-vlastnosti-p%C5%99%C3%ADstupn%C3%A9ho-dokumentu-technick%C3%A9-charakteristiky-a-vlastnosti-p%C5%99%C3%ADstupn%C3%A9ho-dokumentu)
 
 #### 🖋Pro dokumenty vytvářené v editorech
 
