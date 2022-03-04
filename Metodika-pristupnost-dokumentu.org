@@ -167,7 +167,7 @@ Dokument v úřadu může vzniknout více různými způsoby. Přestože musejí
 
 Můžeme se zabývat těmito základními způsoby vzniku vlastního dokumentu:
 
-- Výstup z elektronického systému spisové služby (ESSL): I přesto, že to úřady často ignorují, jde o jedinou správnou formu vzniku jakéhokoliv dokumentu v úřadu. ESSL je systém, v němž dochází k vyhotovování a finalizaci a odesílání dokumentu. Dokument se vždy vytváří jako digitální dokument se všemi náležitostmi.
+- ýstup z elektronického systému spisové služby (ESSL): I přesto, že to úřady často ignorují, jde o jedinou správnou formu vzniku jakéhokoliv dokumentu v úřadu. ESSL je systém, v němž dochází k vyhotovování a finalizaci a odesílání dokumentu. Dokument se vždy vytváří jako digitální dokument se všemi náležitostmi.
 - Výstup generovaný z jiného informačního systému (AIS/ISSD): I zde se jedná o automatické generování a tvorbu souboru dokumentu informačním systémem. Dokument v tomto případě negeneruje samotný elektronický systém spisové služby, ale jiný informační systém. Při takovém generování je nutno ale použít správnou knihovnu pro generování PDF a dodržet veškeré technické náležitosti pro dokument.
 - Dokument doplňovaný ze šablony v rámci informačního systému: Informační systém nemusí generovat dokument samostatně. V řadě případů uživatel v příslušném systému připraví určité části obsahu a systém je pak doplní do předpřipravené šablony a z ní pak technicky vygeneruje PDF dokument k jeho vyhotovení a finalizaci. I zde je nezbytné dodržet veškeré technické požadavky na výsledné PDF soubory.
 - Ručně vytvářený dokument mimo informační systém (na počítači úředníka): V některých případech může dokument technicky vznikat i zcela mimo elektronický systém spisové služby (a musí být pak do ESSL řádně vložen a v něm spravován), a to třeba v textovém editoru nebo v jiné aplikaci na počítači zaměstnance úřadu. I v tomto případě je nutno zajistit jeho správný výstupní formát se všemi technickými náležitostmi.
@@ -286,8 +286,15 @@ Ne vše si může ověřit uživatel na svém zařízení, ale vše se dá ově�
 ** NEZAHÁJENO Přístupnost u druhů a forem dokumentů
 *** ROZPRACOVANÉ Přístupnost pro digitální dokumenty
     :LOGBOOK:
+    CLOCK: [2022-03-04 Fri 09:19]--[2022-03-04 Fri 09:34] =>  0:15
     CLOCK: [2022-03-01 Tue 07:40]--[2022-03-01 Tue 08:26] =>  0:46
     :END:
+Jak už bylo několikrát v tomto dokumentu nastíněno, přístupnost dokumentů je technická záležitost. Za určitých okolností sice uživatel může ovlivnit míru přístupnosti dokumentů, nicméně důležitá je technická forma a zejména aplikace, která generuje výsledný dokument do formátu PDF. Umí-li  taková aplikace vytvářet přístupné a tagované  dokumenty, pak je výsledek pozitivní. Pokud ale aplikace resp. komponenta pro generování a vy tváření PDF souboru na přístupnost kašle, dokument ve výsledku přístupný nebude.
+
+V každém případě tedy technickou stránku přístupnosti řeší aplikace, ve které se dokument Vytváří či  generuje. Níže jsou pak rozebrány podle jednotlivých forem vzniku dokumentů způsoby, jakým se obecně přístupnost textového obsahu dokumentu zajistí.
+**** ROZPRACOVANÉ Pro dokumenty generované informačními systémy
+**** ROZPRACOVANÉ Pro dokumenty vytvářené v editorech
+**** ROZPRACOVANÉ Pro dokumenty doručené od jiného původce
 *** POKOREKTUŘE Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií
 :LOGBOOK:
 CLOCK: [2022-02-08 Tue 09:03]--[2022-02-08 Tue 10:35] =>  1:32
