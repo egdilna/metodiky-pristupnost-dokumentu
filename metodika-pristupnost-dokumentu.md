@@ -138,13 +138,13 @@ Instituce veřejného sektoru se souhrnně nazývají takzvanými veřejnoprávn
 
 ### Druhy a formy dokumentů a jejich správy {#druhy-a-formy-dokumentů-a-jejich-správy}
 
-### Způsoby vzniku vlastního dokumentu {#způsoby-vzniku-vlastního-dokumentu}
+### Způsoby vzniku vlastního dokumentu
 
 Dokument v úřadu může vzniknout více různými způsoby. Přestože musejí být vždy dodrženy veškeré povinnosti a procesy správy dokumentů, technických forem vzniku a generování souboru dokumentu je více. Podle jednotlivých způsobů vzniku či získání dokumentu pro jeho odeslání nebo publikaci platí pochopitelně i rozdílné technické postupy.
 
 Můžeme se zabývat těmito základními způsoby vzniku vlastního dokumentu:
 
--   ýstup z elektronického systému spisové služby (ESSL): I přesto, že to úřady často ignorují, jde o jedinou správnou formu vzniku jakéhokoliv dokumentu v úřadu. ESSL je systém, v němž dochází k vyhotovování a finalizaci a odesílání dokumentu. Dokument se vždy vytváří jako digitální dokument se všemi náležitostmi.
+- Výstup z elektronického systému spisové služby (ESSL): I přesto, že to úřady často ignorují, jde o jedinou správnou formu vzniku jakéhokoliv dokumentu v úřadu. ESSL je systém, v němž dochází k vyhotovování a finalizaci a odesílání dokumentu. Dokument se vždy vytváří jako digitální dokument se všemi náležitostmi.
 -   Výstup generovaný z jiného informačního systému (AIS/ISSD): I zde se jedná o automatické generování a tvorbu souboru dokumentu informačním systémem. Dokument v tomto případě negeneruje samotný elektronický systém spisové služby, ale jiný informační systém. Při takovém generování je nutno ale použít správnou knihovnu pro generování PDF a dodržet veškeré technické náležitosti pro dokument.
 -   Dokument doplňovaný ze šablony v rámci informačního systému: Informační systém nemusí generovat dokument samostatně. V řadě případů uživatel v příslušném systému připraví určité části obsahu a systém je pak doplní do předpřipravené šablony a z ní pak technicky vygeneruje PDF dokument k jeho vyhotovení a finalizaci. I zde je nezbytné dodržet veškeré technické požadavky na výsledné PDF soubory.
 -   Ručně vytvářený dokument mimo informační systém (na počítači úředníka): V některých případech může dokument technicky vznikat i zcela mimo elektronický systém spisové služby (a musí být pak do ESSL řádně vložen a v něm spravován), a to třeba v textovém editoru nebo v jiné aplikaci na počítači zaměstnance úřadu. I v tomto případě je nutno zajistit jeho správný výstupní formát se všemi technickými náležitostmi.
@@ -261,6 +261,11 @@ Jak už bylo několikrát v tomto dokumentu nastíněno, přístupnost dokument�
 V každém případě tedy technickou stránku přístupnosti řeší aplikace, ve které se dokument Vytváří či generuje. Níže jsou pak rozebrány podle jednotlivých forem vzniku dokumentů způsoby, jakým se obecně přístupnost textového obsahu dokumentu zajistí.
 
 #### 🖋Pro dokumenty generované informačními systémy
+
+- [ ] Dopsat i s odkazem na ty formy vzniku
+
+V podkapitole [Způsoby vzniku vlastního dokumentu] jsou v prvních bodech popsány situace, kdy dokument vzniká automaticky vygenerováním a to v informačním systému.
+
 
 #### 🖋Pro dokumenty vytvářené v editorech
 
