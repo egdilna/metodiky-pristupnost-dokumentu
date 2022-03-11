@@ -181,7 +181,7 @@ Kromě toho jsou pro úřady závazné i následující:
 
 V této metodice není prostor vysvětlovat veškeré legislativní souvislosti, je třeba znát celý rámec k elektronizaci veřejné správy, jehož je přístupnost dokumentů jen jednou malou součástí.
 
-## KEKOREKTUŘE Povinnost vytvářet přístupné dokumenty [[aktuálněrozdělané]{.smallcaps}]{.tag tag-name="aktuálněrozdělané"} {#kekorektuře-povinnost-vytvářet-přístupné-dokumenty}
+## KEKOREKTUŘE Povinnost vytvářet přístupné dokumenty "} {#kekorektuře-povinnost-vytvářet-přístupné-dokumenty}
 
 Ukázali jsme si dost obsáhlý *Legislativní rámec* nějž tedy plyne obecná i konkrétní technická povinnost dělat přístupné dokumenty. Protože úřady to ale ignorovaly, přikročilo se k jednoznačnému stanovení technické přístupnosti.
 
@@ -283,10 +283,24 @@ Na co si dát u knihovny generátoru PDF pozor?
 - Výsledné PDF/a musí splňovat veškeré požadavky technické normy pro PDF/a formát a technické normy pro přístupnost PDF/a dokumentů.
 - Výsledné PDF musí být přístupné, tedy splňovat [technické charakteristiky a funkce přístupných dokumentů](#technick%C3%A9-charakteristiky-a-vlastnosti-p%C5%99%C3%ADstupn%C3%A9ho-dokumentu-technick%C3%A9-charakteristiky-a-vlastnosti-p%C5%99%C3%ADstupn%C3%A9ho-dokumentu)
 
-#### 🖋Pro dokumenty vytvářené v editorech
+#### KEKOREKTUŘE Pro dokumenty vytvářené v editorech
+
+Dalším obvyklým způsobem jak se vytvářejí dokumenty je vytvářet je přímo v nějakém textovém editoru. Do skupiny textových editorů, nebo editorů obecně, počítáme nejen textové procesory, ale například i tabulkové editory a nebo jakékoliv programy na počítači úředníka, ze kterých daný program Vytváří výstup ve formátu PDF. U editorů také platí, že v naprosté většině případů si editor vnitřně zavolá nějakou knihovnu pro vygenerování PDF dokumentů a tu používá. Výhodou v těchto případech je, že pokud nějaký editor od určitého výrobce vy tváří správné soubory, máte takřka jistotu, že i ostatní programy od téhož výrobce se budou k PDF výstupu chovat obdobně. 
+
+Přesto je v případě editoru nutné myslet na jednu věc, která z podstaty odpadá u dokumentů generovaných z ESSL a nebo z nějakého jiného informačního systému. Zatímco takové informační systémy dokumenty sestavují z nějakých předpřipravených bloků a šablon, v případě dokumentu vytvořeného v textovém editoru je bohužel plně na uživateli, jak bude dokument vypadat a jak bude sestaven. Uživatel tedy musí již při vytváření myslet na to, aby nevyužíval nějaké prvky či textové formátování, které by samo o sobě nebylo dostatečně přístupné.
+
+Na co je třeba si dávat v editoru při psaní dokumentu pozor?
+
+- Strukturu dokumentu dělat přes styly odstavců Nadpis 1, Nadpis 2, Nadpis 3... Tedy nadpis není to co je tučné a podtržené a nebo má větší písmo, ale musí to být opravdu technicky nadpis.
+- Pokud je do dokumentu vložen obrázek, nákres, tabulka či jakýkoliv jiný objekt než souvislý text, musí být správně označen a pojmenován a musí k němu být připojen alternativní text s jeho popisem.
+- Musí se dodržovat principy pro přístupnost obsahu, tedy kontrasty barev, poměr mezi textem a pozadím, velikosti písma a podobné věci. Je vhodné vycházet z potřeb norem pro obsahy webové stránky.
+- Dokument si musíme před jeho exportem do PDF zkontrolovat z hlediska přístupnosti, což většina dnes používaných editorů naštěstí umožňuje. Postu je u každého editoru jiný, ale stačí si jej nalézt v nápovědě.
+- PDF soubor vždy generujeme k tomu určeným způsobe, tedy pomocí funkce Uložit jako, nebo Export a nikoliv s využitím pochybných metod, jako je virtuální tisk do PDF, apod.
+- Pozorně si přečteme nápovědu a informace od výrobce editoru k problematice přístupnosti, kde najdeme i řadu postupů pro daný editor.
 
 #### 🖋Pro dokumenty doručené od jiného původce
 
+Tahle oblast je velice kontroverzní. Je třeba si uvědomit, že všichni veřejnoprávní původci mají stejné povinnosti a překonat určitý alibismus za situace, kdy si někdo jiný takové povinnosti neplní. Velice často se stává, že původci je doručen dokument od jiného veřejnoprávního původce (tedy od organizace  jež má stran spisové služby a dokumentů stejné povinnosti, a to buď pro účely nějakého řízení a nebo dokonce jako dokument, který má daný původce za povinnost zveřejnit kupříkladu umístěním na úřední desku.
 ### Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií {#jak-má-správně-vypadat-analogová-verze-dokumentu-aby-šla-zpracovat-asistivní-technologií}
 
 Co se týče analogového dokumentu, respektive, přístupnosti takového dokumentu adresovaného klientovi veřejné správy, který má určité speciální potřeby vyplývající z podstaty jeho postižení, je důležité, aby takový analogový dokument byl vytvořen podle určitých pravidel, která zajistí, že klient veřejné správy s postižením bude mít maximální možnost se s takovým dokumentem plně seznámit, a to za použití OCR software, který bude schopen dokument kvalitně rozpoznat a převést jej do elektronické formy přístupné i pro odečítače obrazovky, jež využívají primárně lidé se zrakovým postižením.
