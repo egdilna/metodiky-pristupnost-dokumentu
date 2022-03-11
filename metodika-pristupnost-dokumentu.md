@@ -301,6 +301,9 @@ Na co je třeba si dávat v editoru při psaní dokumentu pozor?
 #### 🖋Pro dokumenty doručené od jiného původce
 
 Tahle oblast je velice kontroverzní. Je třeba si uvědomit, že všichni veřejnoprávní původci mají stejné povinnosti a překonat určitý alibismus za situace, kdy si někdo jiný takové povinnosti neplní. Velice často se stává, že původci je doručen dokument od jiného veřejnoprávního původce (tedy od organizace  jež má stran spisové služby a dokumentů stejné povinnosti, a to buď pro účely nějakého řízení a nebo dokonce jako dokument, který má daný původce za povinnost zveřejnit kupříkladu umístěním na úřední desku.
+
+Ve skutečnosti je za situace, kdy je doručen nepřístupný dokument od jiného původce totiž jediná legální cesta. A to dokument zcela ignorovat a vyrozumět odesílatele o porušení zákona a trvat na odstranění vad dokumentu a jeho opětovném doručení.
+
 ### Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií {#jak-má-správně-vypadat-analogová-verze-dokumentu-aby-šla-zpracovat-asistivní-technologií}
 
 Co se týče analogového dokumentu, respektive, přístupnosti takového dokumentu adresovaného klientovi veřejné správy, který má určité speciální potřeby vyplývající z podstaty jeho postižení, je důležité, aby takový analogový dokument byl vytvořen podle určitých pravidel, která zajistí, že klient veřejné správy s postižením bude mít maximální možnost se s takovým dokumentem plně seznámit, a to za použití OCR software, který bude schopen dokument kvalitně rozpoznat a převést jej do elektronické formy přístupné i pro odečítače obrazovky, jež využívají primárně lidé se zrakovým postižením.
