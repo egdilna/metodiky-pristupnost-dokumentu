@@ -151,18 +151,18 @@ Můžeme se zabývat těmito základními způsoby vzniku vlastního dokumentu:
 -   Dokument přijatý jako doručený a poskytnutý jako odeslaný: Původce odesílá/zveřejňuje i dokumenty jiných původců (kupříkladu podklady od jiného OVM či od jiného účastníka řízení). V takovém případě platí povinnosti správy dokumentu v ESSL či ISSD a pokud dokument není ve správném výstupním formátu a je od organizace, která nemá za povinnost vykonávat spisovou službu, musí původce takový dokument převést do výstupniho formátu. Zde je to ale už trochu složitější.
 -   Dokument jiného původce zveřejněný na úřední desce: Speciální případ předchozího způsobu. Původce je mnohdy povinen zveřejnit dokument jiného původce na svojí úřední desce. Problém je, pokud ten, kdo takový dokument původci zaslal, nesplnil veškeré povinnosti a požadavky na takový dokument. Původce jej má správně nezveřejnit a uložit odesílateli, aby odstranil vady dokumentu a uvedl ho do souladu se zákonem. Vzhledem k tomu, že původce nemůže při zveřejnění dokumentu na úřední desce tímto dokumentem jakkoliv technicky manipulovat, je to jediný legální způsob, jak požadavky zajistit.
 
-## KEKOREKTUŘE Legislativní rámec
+## POKOREKTUŘE Legislativní rámec
 
-Legislativní rámec pro přístupnost je vlastně dost obsáhlý a tak si to rozdělme na několik vrstev. Na obecné úrovni platí principy rovného přístupu a nediskriminace, následují související předpisy k dokumentům a nakonec konkrétní ustanovení k technickému řešení přístupnosti dokumentů.
+Legislativní rámec pro přístupnost je vlastně dost obsáhlý, a tak si to rozdělme na několik vrstev. Na obecné úrovni platí principy rovného přístupu a nediskriminace, následují související předpisy k dokumentům a nakonec konkrétní ustanovení k technickému řešení přístupnosti dokumentů.
 
-Obecná úroveň
+Obecná úroveň:
 
 -   Úmluva o právech osob se zdravotním postižením
 -   Nařízení EU EIDAS
 -   Ústava a Listina práv a svobod
 -   Správní řád a správně-procesní předpisy
 
-Předpisy týkající se dokumentů a technických záležitostí
+Předpisy týkající se dokumentů a technických záležitostí:
 
 -   Zákon č. 499/2004 Sb., o archivnictví a spisové službě
 -   Vyhláška č. 259/2012 Sb., o podrobnostech výkonu spisové služby
@@ -181,24 +181,24 @@ Kromě toho jsou pro úřady závazné i následující:
 
 V této metodice není prostor vysvětlovat veškeré legislativní souvislosti, je třeba znát celý rámec k elektronizaci veřejné správy, jehož je přístupnost dokumentů jen jednou malou součástí.
 
-## KEKOREKTUŘE Povinnost vytvářet přístupné dokumenty "} {#kekorektuře-povinnost-vytvářet-přístupné-dokumenty}
+## POKOREKTUŘE Povinnost vytvářet přístupné dokumenty "} {#kekorektuře-povinnost-vytvářet-přístupné-dokumenty}
 
-Ukázali jsme si dost obsáhlý *Legislativní rámec* nějž tedy plyne obecná i konkrétní technická povinnost dělat přístupné dokumenty. Protože úřady to ale ignorovaly, přikročilo se k jednoznačnému stanovení technické přístupnosti.
+Ukázali jsme si velmi rozsáhlý  *Legislativní rámec*, z nějž tedy plyne obecná i konkrétní technická povinnost vytvářet  přístupné dokumenty. Protože úřady toto ale ignorovaly, přikročilo se k jednoznačnému stanovení technické přístupnosti.
 
-Vyhláška \[504/2021 Sb. Vyhláška, kterou se mění vyhlášky provádějící zákon o archivnictví a spisové službě\] přináší nově výslovnou povinnost technické přístupnosti, a to takto:
+Vyhláška \[504/2021 Sb. Vyhláška, kterou se mění vyhlášky provádějící zákon o archivnictví a spisové službě\], přináší nově výslovnou povinnost technické přístupnosti, a to takto:
 
 1.  V § 16 odst. 3 se za větu první vkládá věta „Veřejnoprávní původce vyhotoví dokument podle věty první v podobě, v jaké vykonává spisovou službu, ledaže povaha dokumentu takové vyhotovení vylučuje.
 2.  V § 16 se doplňuje odstavec 5, který zní: „Pokud veřejnoprávní původce vykonává spisovou službu v elektronické podobě v elektronickém systému spisové služby, musí jím vyhotovovaný statický textový dokument v digitální podobě nebo statický kombinovaný textový a obrazový dokument v digitální podobě obsahovat strojově čitelný text (textovou vrstvu), a bylo-li příslušné schéma XML stanoveno národním standardem, také metadata ve formátu XML. Veřejnoprávní původce zajistí soulad obsahu dokumentu ve výstupním datovém formátu s obsahem strojově čitelného textu a metadat ve formátu XML. Věty první a druhá se nepoužijí v případě, je-li dokument určen pouze pro komunikaci mezi informačními systémy.".
 
-První bod zakotvuje povinnost, aby úřad vykonávající spisovou službu elektronicky, vytvářel vždy a výhradně digitální dokumenty. Nesmí tedy primárně vytvářet dokumenty analůogové. Není tím dotčeno odesílání dokumentů v listinné podobě těm příjemcům, kteří kupŕíkladu nemají datovou schránku. I tak se totiž povinně vytvoří dokument digitání, opatří se validačními prvky a pak se vytiskne a odešle papírově jeho stejnopis, prvopis či druhopis, nic to ale nemění na digitální formě dokumentu. Tím se také fakticky zakazuje postup, kdy úřady dokumenty sice tvořily digitálně, ale pak si je vytiskly, nechaly si je nelegálně fyzicky podepsat svými úředníky a pak je naskenovaly do spisové služby.
+První bod zakotvuje povinnost, aby úřad vykonávající spisovou službu elektronicky, vytvářel vždy a výhradně digitální dokumenty. Nesmí tedy primárně vytvářet dokumenty analogové. Není tím dotčeno odesílání dokumentů v listinné podobě těm příjemcům, kteří kupříkladu nemají datovou schránku. I tak se totiž povinně vytvoří dokument digitální, opatří se validačními prvky a pak se vytiskne a odešle papírově jeho stejnopis, prvopis či druhopis. Nic to ale nemění na digitální formě dokumentu. Tím se také fakticky zakazuje postup, kdy úřady dokumenty sice tvořily digitálně, ale pak si je vytiskly, nechaly si je nelegálně fyzicky podepsat svými úředníky a pak je naskenovaly do spisové služby.
 
-Druhý bod už znamená opravdové technické řešení přístupnosti. Tedy v souladu s příslušnými ISO specifikacemi výstupních formát§ pro tyto druhy dokumentů zajistit jejich textovou vrstvu v souladu s obsahem. To je ostatně povinnost týkající se obecného splnění, aby šlo o formát dle správné mezinárodní specifikace. A přidává se i povinná datová věta u typů dokumentů, kde to bude stanoveno.
+Druhý bod už znamená opravdové technické řešení přístupnosti. Tedy v souladu s příslušnými ISO specifikacemi výstupních formátů pro tyto druhy dokumentů zajistit jejich textovou vrstvu v souladu s obsahem. To je ostatně povinnost týkající se obecného splnění, aby šlo o formát dle správné mezinárodní specifikace. A přidává se i povinná datová věta u typů dokumentů, kde to bude stanoveno.
 
 Co to znamená?
 
 -   Nesmí vytvářet jiné, než digitální dokumenty (se všemi dopady a konsekvencemi)
 -   Dokument musí být ve formátu PDF/A2x a vyšší a musí obsahovat textovou vrstvu (ve správné ISO specifikaci)
--   Nebo je dokument také v jiném formátu (podle posledního odstavce) a i pak musí obsahovat textovou vrstvu
+-   Nebo je dokument také v jiném formátu (podle posledního odstavce), i pak musí obsahovat textovou vrstvu
 -   Není přípustné OCR, pokud ESSL nezaznamenal v protokolu zodpovědnost úředníka za úplný soulad textové vrstvy
 -   Dokument nemající textovou vrstvu nevznikl v souladu se zákonem, tedy právně nemůže existovat
 -   U vybraných typů dokumentů bude povinně PDF obsahovat i standardizovanou XML datovou větu se strukturovanými informacemi a obsahem
