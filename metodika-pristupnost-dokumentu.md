@@ -211,13 +211,13 @@ Co to znamená?
 
 ## 🖋Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
 
-## KEKOREKTUŘE Náležitosti dokumentů
+## POKOREKTUŘE Náležitosti dokumentů
 
-U dokumentů ve spisové službě jsou velice důležité jejich náležitosti. Ať už se jedná o rozhodnutí, nebo o formulář, či o jiný druh dokumentu. Veřejnoprávní původci jsou povinni vytvářet jen takové dokumenty, které splňují veškeré technické požadavky a obsahové a procesní náležitosti. Celá řada z nich pak také souvisí právě s přístupností dokumentu a s jeho identifikací a určením zodpovědné osoby, která taktéž zodpovídá za přístupnost a na niž se může uživatel asistivních technologií v případě problémů a nejasností obrátit.
+U dokumentů ve spisové službě jsou velice důležité jejich náležitosti. Ať už se jedná o rozhodnutí, nebo o formulář či o jiný druh dokumentu. Veřejnoprávní původci jsou povinni vytvářet jen takové dokumenty, které splňují veškeré technické požadavky a obsahové a procesní náležitosti. Celá řada z nich pak také souvisí právě s přístupností dokumentu a s jeho identifikací a určením zodpovědné osoby, která taktéž zodpovídá za přístupnost a na niž se může uživatel asistivních technologií v případě problémů a nejasností obrátit.
 
 ### Obsahové náležitosti {#obsahové-náležitosti}
 
-Obecné náležitosti stanovuje Vyhláška o podrobnostech výkonu spisové služby, další obsahové náležitosti pak stanovují další předpisy (třeba Správní řád, apod.). Platí ale, že každý dokument vzniklý prostřednictvím činnosti veřejnoprávního původce, a to bez výjimky, musí mít určité obsahové náležitosti, které jsou právě definovány příslušným ustanovením vyhlášky. Tyto náležitosti jsou součástí dokumentu také proto, aby v případě jakýchkoliv problémů a nejasností mohl být konkrétní dokument jednoznačně identifikován, to platí i o konkrétní osobě za dokument odpovědné a také o organizaci původce.
+Obecné náležitosti stanovuje Vyhláška o podrobnostech výkonu spisové služby, další obsahové náležitosti pak stanovují další předpisy (třeba Správní řád apod.). Platí ale, že každý dokument vzniklý prostřednictvím činnosti veřejnoprávního původce, a to bez výjimky, musí mít určité obsahové náležitosti, které jsou právě definovány příslušným ustanovením vyhlášky. Tyto náležitosti jsou součástí dokumentu také proto, aby v případě jakýchkoliv problémů a nejasností mohl být konkrétní dokument jednoznačně identifikován, to platí i o konkrétní osobě za dokument odpovědné a také o organizaci původce.
 
 Základní náležitosti z pohledu obsahu a identifikace dokumentu jsou:
 
@@ -260,42 +260,42 @@ Jak už bylo několikrát v tomto dokumentu nastíněno, přístupnost dokument�
 
 V každém případě tedy technickou stránku přístupnosti řeší aplikace, ve které se dokument Vytváří či generuje. Níže jsou pak rozebrány podle jednotlivých forem vzniku dokumentů způsoby, jakým se obecně přístupnost textového obsahu dokumentu zajistí.
 
-#### KEKOREKTUŘE Pro dokumenty generované informačními systémy
+#### POKOREKTUŘE Pro dokumenty generované informačními systémy
 
 
 
-V podkapitole [Způsoby vzniku vlastního dokumentu](#zp%C5%AFsoby-vzniku-vlastn%C3%ADho-dokumentu+) jsou v prvních bodech popsány situace, kdy dokument vzniká automaticky vygenerováním a to v informačním systému.
+V podkapitole [Způsoby vzniku vlastního dokumentu](#zp%C5%AFsoby-vzniku-vlastn%C3%ADho-dokumentu+) jsou v prvních bodech popsány situace, kdy dokument vzniká automaticky vygenerováním, a to v informačním systému.
 
-Ať už dokument generuje ESSL nebo jiný informační systém či aplikace, musí se pro vytváření PDF používat taková knihovna PDF generátoru, která umí vygenerovat skutečně správný PDF dokument. Za to je plně zodpovědný autor a dodavatel příslušného systému.
+Ať už dokument generuje ESSL, nebo jiný informační systém či aplikace, musí se pro vytváření PDF používat taková knihovna PDF generátoru, která umí vygenerovat skutečně správný PDF dokument. Za to je plně zodpovědný autor a dodavatel příslušného systému.
 
-Dá se k tomu přistupovat třemi různými způsoby:
+Lze  k tomu přistupovat třemi různými způsoby:
 
 1. PDF dokumenty generuje pouze elektronický systém spisové služby a žádný jiný informační systém
 2. Dokumenty generuje elektronický systém spisové služby a také ostatní systémy, ale tak, že pro generování dokumentu využívají službu generátoru PDF elektronického systému spisové služby
 3. Dokumenty generují i ostatní informační systémy a každý má vlastní knihovnu generátoru PDF
 
-V prvních dvou případech je za správný dokument, vćetně přístupnosti, zajistí příslušná komponenta knihovny v elektronickém systému spisové služby. ESSL používá pro samotné technické vytvoření PDF dokumentu knihovnu pro generování PDF. Ta buď z připravených dat PDF sestaví a nebo existující obsah (třeba z formátu MS Word) převede do PDF. Při obou těchto postupech musí ale výsledkem být validní PDF. Při třetí variantě kromě ESSL mají své knihovny pro generování dokumentů také ostatní informační systémy a aplikace a tedy se musí pro každou takovou knihovnu zajistit stoprocentní funkčnost. Za knihovny generátorů PDF jsou pak zodpovědní jednotliví dodavatelé systémů. Prostřední varianta znamená, že i ostatní aplikace využívají knihovnu v rámci ESSL a tedy je jasné, že takto generované dokumenty mají stejný technický formát, jako dokumenty z ESSL.
+V prvních dvou případech správný dokument, a to včetně přístupnosti, zajistí příslušná komponenta knihovny v elektronickém systému spisové služby. ESSL používá pro samotné technické vytvoření PDF dokumentu knihovnu pro generování PDF. Ta buď z připravených dat PDF sestaví, nebo existující obsah (třeba z formátu MS Word) převede do PDF. Při obou těchto postupech musí ale výsledkem být validní PDF. Při třetí variantě, kromě ESSL, mají své knihovny pro generování dokumentů také ostatní informační systémy a aplikace a tedy se musí pro každou takovou knihovnu zajistit stoprocentní funkčnost. Za knihovny generátorů PDF jsou pak zodpovědní jednotliví dodavatelé systémů. Prostřední varianta znamená, že i ostatní aplikace využívají knihovnu v rámci ESSL a tedy je jasné, že takto generované dokumenty mají stejný technický formát, jako dokumenty z ESSL.
 
 Na co si dát u knihovny generátoru PDF pozor?
 
-- Musí umět jednak sestavit PDF z dat a jednak provést konverzi jiného běžného formátu do PDF
+- Musí umět jednak sestavit PDF z dat a jednak provést konverzi jiného běžného formátu do PDF.
 - Výstupem musí být PDF/a dle povinného výstupního formátu dokumentu.
 - Výsledné PDF/a musí splňovat veškeré požadavky technické normy pro PDF/a formát a technické normy pro přístupnost PDF/a dokumentů.
 - Výsledné PDF musí být přístupné, tedy splňovat [technické charakteristiky a funkce přístupných dokumentů](#technick%C3%A9-charakteristiky-a-vlastnosti-p%C5%99%C3%ADstupn%C3%A9ho-dokumentu-technick%C3%A9-charakteristiky-a-vlastnosti-p%C5%99%C3%ADstupn%C3%A9ho-dokumentu)
 
-#### KEKOREKTUŘE Pro dokumenty vytvářené v editorech
+#### POKOREKTUŘE Pro dokumenty vytvářené v editorech
 
-Dalším obvyklým způsobem jak se vytvářejí dokumenty je vytvářet je přímo v nějakém textovém editoru. Do skupiny textových editorů, nebo editorů obecně, počítáme nejen textové procesory, ale například i tabulkové editory a nebo jakékoliv programy na počítači úředníka, ze kterých daný program Vytváří výstup ve formátu PDF. U editorů také platí, že v naprosté většině případů si editor vnitřně zavolá nějakou knihovnu pro vygenerování PDF dokumentů a tu používá. Výhodou v těchto případech je, že pokud nějaký editor od určitého výrobce vy tváří správné soubory, máte takřka jistotu, že i ostatní programy od téhož výrobce se budou k PDF výstupu chovat obdobně. 
+Dalším obvyklým způsobem, jak se vytvářejí dokumenty, je vytvářet je přímo v nějakém textovém editoru. Do skupiny textových editorů, nebo editorů obecně, počítáme nejen textové procesory, ale například i tabulkové editory, nebo jakékoliv programy na počítači úředníka, ze kterých daný program Vytváří výstup ve formátu PDF. U editorů také platí, že v naprosté většině případů si editor vnitřně zavolá nějakou knihovnu pro vygenerování PDF dokumentů a tu používá. Výhodou v těchto případech je, že pokud nějaký editor od určitého výrobce vytváří správné soubory, máte takřka jistotu, že i ostatní programy od téhož výrobce se budou k PDF výstupu chovat obdobně. 
 
-Přesto je v případě editoru nutné myslet na jednu věc, která z podstaty odpadá u dokumentů generovaných z ESSL a nebo z nějakého jiného informačního systému. Zatímco takové informační systémy dokumenty sestavují z nějakých předpřipravených bloků a šablon, v případě dokumentu vytvořeného v textovém editoru je bohužel plně na uživateli, jak bude dokument vypadat a jak bude sestaven. Uživatel tedy musí již při vytváření myslet na to, aby nevyužíval nějaké prvky či textové formátování, které by samo o sobě nebylo dostatečně přístupné.
+Přesto je v případě editoru nutné myslet na jednu věc, která z podstaty odpadá u dokumentů generovaných z ESSL, nebo z nějakého jiného informačního systému. Zatímco takové informační systémy dokumenty sestavují z nějakých předpřipravených bloků a šablon, v případě dokumentu vytvořeného v textovém editoru je bohužel plně na uživateli, jak bude dokument vypadat a jak bude sestaven. Uživatel tedy musí již při vytváření myslet na to, aby nevyužíval nějaké prvky či textové formátování, které by samo o sobě nebylo dostatečně přístupné.
 
 Na co je třeba si dávat v editoru při psaní dokumentu pozor?
 
-- Strukturu dokumentu dělat přes styly odstavců Nadpis 1, Nadpis 2, Nadpis 3... Tedy nadpis není to co je tučné a podtržené a nebo má větší písmo, ale musí to být opravdu technicky nadpis.
-- Pokud je do dokumentu vložen obrázek, nákres, tabulka či jakýkoliv jiný objekt než souvislý text, musí být správně označen a pojmenován a musí k němu být připojen alternativní text s jeho popisem.
+- Strukturu dokumentu dělat přes styly odstavců Nadpis 1, Nadpis 2, Nadpis 3... Tedy nadpis není to, co je tučné a podtržené, nebo má větší písmo, ale musí to být opravdu technicky nadpis.
+- Pokud je do dokumentu vložen obrázek, nákres, tabulka či jakýkoliv jiný objekt, než souvislý text, musí být správně označen a pojmenován a musí k němu být připojen alternativní text s jeho popisem.
 - Musí se dodržovat principy pro přístupnost obsahu, tedy kontrasty barev, poměr mezi textem a pozadím, velikosti písma a podobné věci. Je vhodné vycházet z potřeb norem pro obsahy webové stránky.
 - Dokument si musíme před jeho exportem do PDF zkontrolovat z hlediska přístupnosti, což většina dnes používaných editorů naštěstí umožňuje. Postu je u každého editoru jiný, ale stačí si jej nalézt v nápovědě.
-- PDF soubor vždy generujeme k tomu určeným způsobe, tedy pomocí funkce Uložit jako, nebo Export a nikoliv s využitím pochybných metod, jako je virtuální tisk do PDF, apod.
+- PDF soubor vždy generujeme k tomu určeným způsobem, tedy pomocí funkce Uložit jako, nebo Export, nikoliv s využitím pochybných metod, jako je virtuální tisk do PDF apod.
 - Pozorně si přečteme nápovědu a informace od výrobce editoru k problematice přístupnosti, kde najdeme i řadu postupů pro daný editor.
 
 #### KEKOREKTUŘE Pro dokumenty doručené od jiného původce
