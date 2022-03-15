@@ -134,7 +134,16 @@ Existují další charakteristiky přístupných dokumentů včetně:
 
 Instituce veřejného sektoru se souhrnně nazývají takzvanými veřejnoprávními původci. To jsou organizace a instituce, nejen úřady, které mají za povinnost tzv. výkon spisové služby. Stručně řečeno, spisová služba je vše, co se týká správy dokumentů, a to zejména u digitálních dokumentů. Tedy i přístupnost textového obsahu dokumentů je součástí této spisové služby. Proto je přístupnost dokumentů jednou z povinností výkonu spisové služby.
 
-### 🖋Spisová služba jako odborná správa dokumentů
+### KEKOREKTUŘE Spisová služba jako odborná správa dokumentů
+
+Legislativa definuje takzvané veřejnoprávním původce, což jsou organizace a subjekty, kteří podle příslušného zákona mají za povinnost vykonávat odbornou zprávu dokumentu. Tu realizují výkonem spisové služby a to zejména spisové služby v elektronické podobě.
+
+Spisová služba je souborem procesů a to zejména: Příjem, označování, evidence, rozdělování, vyřizování, tvorba, vyhotovování, podepisování, odesílání, uzavírání, uchovávání a skartace dokumentů.
+
+
+
+Přístupnost dokumentu je ve skutečnosti jednou z technických podrobností výboru spisové služby a to zejména u dokumentu vzniklých z vlastní činnosti. Každý veřejnoprávním původce má za povinnost plnit veškeré požadavky výkon spisové služby a mezi tyto požadavky patří také vytvářet výhradně přístupné dokumenty v digitální podobě.
+
 
 ### Druhy a formy dokumentů a jejich správy {#druhy-a-formy-dokumentů-a-jejich-správy}
 
@@ -309,6 +318,10 @@ Tento postup se může sice jevit složitý a neuspokojivý, ale je to opravdu j
 Jak tedy konkrétně v takovém případě postupovat? Bude pravděpodobně nutné, abychom si u každého doručeného dokumentu jiného původce ověřili, zda takový dokument splňuje veškeré na něj kladené požadavky. Týká se to zejména technických požadavků, a to včetně požadavku na jeho přístupnost a včetně požadavku na jeho důvěryhodnost, tedy elektronické kvalifikované validační prvky. To mimochodem musí povinně zajistit elektronický systém spisové služby, o takovém ověření nás pak informovat a zapsat jeho výsledky do transakčního protokolu. V případě nepřístupného dokumentu se bude jednat o nesplnění povinnosti výstupního formátu.  Platí tedy, že dokument nám sice byl doručen po stránce spisové služby, ale nikoliv řádně doručen podle práva, a tak se musíme chovat. Pokud nějaké náležitosti dokument nesplňuje, pak takový dokument po právní stránce nemůže ani existovat a nemohl vzniknout a my tedy  nemáme povinnost takový dokument zveřejnit na úřední desce. Máme ale jinou povinnost, a to vyrozumět odesílatele takového dokumentu, že tímto dokumentem nesplnil zákonné náležitosti a povinnosti a vyzvat ho, aby dokument vytvořil znovu a správně a s veškerými technickými náležitostmi a poté nám jej znovu odeslal k zveřejnění na úřední desce. Pochopitelně to významně ovlivňuje lhůty souvisejících povinností, neboť nepřístupný dokument, (ale také například dokument bez kvalifikovaného elektronického podpisu či pečeti a časového razítka), nemá žádné právní účinky, a tedy se na nás nevztahuje povinnost jej zveřejnit a neběží ani lhůta pro jeho zveřejnění. Pochopitelně tohle vše musíme odesílateli velmi důrazně zmínit ve vyrozumění a nařídit mu, aby nesoulad a vady takto vytvořeného neplatného dokumentu napravil on. 
 
 Podle dalších povinností týkajících se spisové služby také o všem tomhle vedeme záznamy v transakčním protokolu, tedy jsme právně i důkazně s obliga, neboť, pokud si my plníme všechny povinnosti výkonu spisové služby bezezbytku a řádně, není nepřístupný doručený dokument jiného původce naše chyba a my jsme postupovali dle práva a můžeme to kdykoliv dokázat.
+
+#### KEKOREKTUŘE Možnost odeslat dokument také v jiném formátu
+
+Vyhláška o podrobnostech výkonu spisové služby v ustanovení paragrafu týkajícího se povinných výstupních formátů umožňuje, aby byl dokument odeslán a distribuován také v jiném formátu. Je tedy povinností vždy vyhotovit a odeslat dokument ve výstupním formátu, ale v odůvodněných případech lze přiložit také ten samý dokument virem technickém formátu. To se hodí kupříkladu v případě, kdy součástí dokumentu je nějaká tabulka nebo formulář ještě je třeba vyplnit. Má to ale také své odůvodnění stran přístupnosti dokumentů. A pokud jsme v minulosti z nějakého závažné ho důvodu nemohli doručení dokument převést do výstupního formátu a zajistit mu také technologickou přístupnost, můžeme cizích doručení dokumentů rozeslat a zveřejnit také v jiném formátu a to např. ve formátu zdrojového editovatelného souboru. Tím zajistíme přístupnost u dokumentů, neboť v jiném formátu může být dokument přístupný.
 
 ### Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií {#jak-má-správně-vypadat-analogová-verze-dokumentu-aby-šla-zpracovat-asistivní-technologií}
 
