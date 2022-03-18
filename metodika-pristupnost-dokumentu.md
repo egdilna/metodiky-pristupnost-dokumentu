@@ -1,14 +1,4 @@
----
-author:EGdílna.cz a další přispěvatelé
-category: Metodika přístupnosti dokumentů
-date: datum
-language: cs
-title: Metodika pro přístupnost dokumentů
----
-
-
-
-# 🖋Úvod
+# Úvod
 
 ## Účel a použití metodiky {#účel-a-použití-metodiky}
 
@@ -31,7 +21,7 @@ Webová verze metodiky k náhledu a čtení
 
 Ke stažení v otevřeném editovatelném formátu
 
--   
+- [ ] po generování doplnit URL na dokument editovatelné verze- [ ] 
 
 Jakékoliv připomínky či dotazy a návrhy na změny a doplnění lze přidávat vytvořením nového Issue v repozitáři, kde lze také sledovat postup prací a již vytvořené Issues, a to [v sekci Issues v repozitáři](https://github.com/egdilna/metodiky-pristupnost-dokumentu/issues)
 
@@ -56,6 +46,20 @@ Kromě obecně používaných pojmů z oblasti spisové služby, má přístupno
 Následuje znalostní a teoretická část, ve které se dozvíte, co je to přístupnost dokumentů a že jde o nezpochybnitelnou povinnost a také se dozvíte konkrétní přínosy, abyste pochopili, proč je to tak důležité. 
 
 ## 🖋Co je přístupnost dokumentů a proč to řešit?
+
+Přístupnost dokumentů je jednou ze základních schopností všech úřadů a organizací, jež jsou podle zákona veřejnoprávními původci a tedy  spravují a vy tváří dokumenty. Fakticky se jedná o způsob technické tvorby dokumentů tak, aby se s jejich obsahem a strukturou mohli plně seznámit a plně s nimi pracovat skutečně všichni uživatelé a to včetně osob se zdravotním postižením či jiným funkčním omezením.
+
+- [ ] @vladimirdvorakcz Rozveď to a trochu vysvětli, ale zase ne moc púodrobně protože technické podrobnosti jsou už v kapitole co je přístupný a nepřístupný dokument.
+- [ ] 
+Je důležité si v této souvislosti uvědomit několik podstatných věcí:
+
+
+1. Vytvářet přístupné dokumenty je i stávající povinnost zakotvená v legislativě ke spisové službě, ale úřady tuto povinnost často ignorují.
+2. I stávající dokument úřadu, pokud není přístupný, není právně platný, neboť vznikl v rozporu se zákonem, protože nemá řádné technické náležitosti.
+3. Podařilo se, i přes dosavadně dostačující úpravu, aktualizovat konkrétní technické povinnosti přístupných dokumentů.
+4. Určitým způsobem, (ale ne zcela) to souvisí s WMAA, kdy jde o jistou formu obsahu.
+5. V roce 2022 bude na tuto oblast zaměřena pozornost, bude i součástí atestací elektronických systémů spisových služeb (ESSL) a budou tvořeny metodiky a technické templaty.
+
 
 ## Přístupný dokument a nepřístupný dokument {#přístupný-dokument-a-nepřístupný-dokument}
 
@@ -235,9 +239,43 @@ Co to znamená?
 
 ## 🖋Práce s přístupným dokumentem a přínosy přístupnosti
 
-## 🖋Důsledky nesplnění přístupnosti dokumentů
+- [ ] @vladimirdvorakcz Popiš tady prosím jak nevidovmý pracuje s takovým dokumentem, že má ćtečku že si otevře dokument v Acrobat readeru nebo jiné čtečce, pohybuje se po nadpisech a blablablabla. A taky že slabozraký si díky textové vrstvě může text libovolně zvětšit, dát mu specifické barvy, kontrast, zvíraznění, apod. Prostě popiš jak se s tím pracuje
 
-# 🖋Jak na to
+
+## Důsledky nesplnění přístupnosti dokumentů
+
+Obecně již dnes platí, že 
+
+- Veřejná správa postupuje pochopitelně pouze v souladu se zákonem, z čehož v této oblasti platí:
+
+- Dokument, který je digitální a není ve výstupním formátu, je právně neplatný a nelze dle něj postupovat
+- Dokument, který je digitální a není opatřen elektronickými validačními prvky, není právně platný a nelze podle něj postupovat
+- Dokument, se kterým se díky porušení zákona nemůže příjemce seznámit, je neplatný a stát se tím dopouští úmyslného porušování ústavních práv a úmyslné šikany klienta
+
+Nezáleží přitom na tom, jestli se chyby dopustil úředník či úřad a do jaké míry mohl úřad svým technickým vybavením tuto situaci ovlivnit. Pokud totiž takový dokument vznikne, je to důsledek úmyslného porušování zákona ze strany úřadu, na což správní právo pamatuje.
+
+Související ustanovení Správního řádu jsou kupříkladu §\` 2 odst. 1 a 3, § 4 odst. , 4,§ 7 odst. 2,,§ 77odst.1, § 80 odst. 1 nebo 3, doplňuje i § 177 odst. 1
+
+
+Dávejte si tedy na nepřístupné dokumenty pozor. Nejen že se teď bude tato povinnost více kontrolovat, ale jejím nesplněním můžetre klienty a sami sebe dostat do obrovských vleklých a nepříjemných problémů.
+
+
+# KEKOREKTUŘE Jak na to
+
+Následuje praktická část s postupy a návody na splnění povinnosti. Pokud něčemu nebudete rozumět, podívejte se do předchozí části.
+
+Obecně jde o plnění povinností. Platí, že pokud úřad řádně plní veškeré povinnosti týkající se výkonu spisové služby, problém s přístupností dokumentů nemá. Ovšem, úřady na to moc nedbají a pokud se vůbec obtěžují plnit něco z požadavků ohledně výkonu spisové služby, je to v zásadě nedostatečné.
+
+1. Přestanu ignorovat potřeby a povinnosti přístupnosti dokumentů, ale zahrnu to do své schopnosti správy dokumentů
+2. Prověřím si, zda jsou moje dokumenty přístupné a pokud ne, zjednám nápravu
+3. Budu plně akceptovat novelu z vyhlášky 504/2021 a zajistím plnění souvisejících povinností
+4. Dokumenty striktně vyhotovuji/generuji v řádném ESSL splňujícím veškeré technické požadavky
+5. Neporušuji zákon tím, že původně digitální dokument vytisknu a nechám fyzicky podepsat někým a následně dokument naskenuji
+6. Nevytvářím konverzí pouze obrazová PDF nebo PDF bez textové vrstvy dle ISO specifikace výstupního formátu
+7. Zkontroluji dodavatele ESSL a všech dalších systémů, v nichž vznikají moje dokumenty, zda plní povinnosti a zda generují správné dokumenty se všemi technickými náležitostmi
+8. Dokumenty vyhotovuji a vypravuji vždy ve výstupním formátu, ale mám i jejich zdrojový soubor v jiném formátu a ten v případě potřeby poskytnu také
+9. Kladu důraz zejména na úřední dokumenty a rozhodnutí určené příjemcům, také na dokumenty zveřejněné na internetu
+
 
 ## 🖋Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
 
