@@ -35,11 +35,11 @@ Ke stažení v otevřeném editovatelném formátu
 
 Jakékoliv připomínky či dotazy a návrhy na změny a doplnění lze přidávat vytvořením nového Issue v repozitáři, kde lze také sledovat postup prací a již vytvořené Issues, a to [v sekci Issues v repozitáři](https://github.com/egdilna/metodiky-pristupnost-dokumentu/issues)
 
-## HOTOVO Historie verzí
+## Historie verzí
 
 Toto je první verze metodiky z března 2022. V případě dalších verzí zde bude jejich seznam a u každé verze také popis změn.
 
-## HOTOVO Významy některých technických pojmů
+## Významy některých technických pojmů
 
 Kromě obecně používaných pojmů z oblasti spisové služby, má přístupnost dokumentů několik vlastních odborných termínů, které se v tomto dokumentu používají a u kterých musí čtenář dobře znát jejich význam:
 
@@ -50,7 +50,6 @@ Kromě obecně používaných pojmů z oblasti spisové služby, má přístupno
 -   Textová vrstva: Reprezentace veškerého významového obsahu dokumentu formou prostého textu a jeho speciálních atributů, aby bylo možno reprezentovat jakýkoliv obsah a jeho druh a význam pouhým čtením prosté textové informace (definuje překlad ISO specifikací)
 -   Tagovaný obsah: Textová vrstva obsahu dokumentu, která kromě samotného textu obsahuje i jeho speciální atributy, ze kterých je zřejmé, o jaký typ obsahu se jedná a jaký je jeho význam (definuje překlad ISO specifikací)
 
-# 🖋Manažerské shrnutí
 
 # KEKOREKTUŘE Přístupnost dokumentů
 
@@ -182,7 +181,7 @@ Můžeme se zabývat těmito základními způsoby vzniku vlastního dokumentu:
 -   Dokument přijatý jako doručený a poskytnutý jako odeslaný: Původce odesílá/zveřejňuje i dokumenty jiných původců (kupříkladu podklady od jiného OVM či od jiného účastníka řízení). V takovém případě platí povinnosti správy dokumentu v ESSL či ISSD a pokud dokument není ve správném výstupním formátu a je od organizace, která nemá za povinnost vykonávat spisovou službu, musí původce takový dokument převést do výstupniho formátu. Zde je to ale už trochu složitější.
 -   Dokument jiného původce zveřejněný na úřední desce: Speciální případ předchozího způsobu. Původce je mnohdy povinen zveřejnit dokument jiného původce na svojí úřední desce. Problém je, pokud ten, kdo takový dokument původci zaslal, nesplnil veškeré povinnosti a požadavky na takový dokument. Původce jej má správně nezveřejnit a uložit odesílateli, aby odstranil vady dokumentu a uvedl ho do souladu se zákonem. Vzhledem k tomu, že původce nemůže při zveřejnění dokumentu na úřední desce tímto dokumentem jakkoliv technicky manipulovat, je to jediný legální způsob, jak požadavky zajistit.
 
-## POKOREKTUŘE Legislativní rámec
+##  Legislativní rámec
 
 Legislativní rámec pro přístupnost je vlastně dost obsáhlý, a tak si to rozdělme na několik vrstev. Na obecné úrovni platí principy rovného přístupu a nediskriminace, následují související předpisy k dokumentům a nakonec konkrétní ustanovení k technickému řešení přístupnosti dokumentů.
 
@@ -212,7 +211,7 @@ Kromě toho jsou pro úřady závazné i následující:
 
 V této metodice není prostor vysvětlovat veškeré legislativní souvislosti, je třeba znát celý rámec k elektronizaci veřejné správy, jehož je přístupnost dokumentů jen jednou malou součástí.
 
-## POKOREKTUŘE Povinnost vytvářet přístupné dokumenty "} {#kekorektuře-povinnost-vytvářet-přístupné-dokumenty}
+##  Povinnost vytvářet přístupné dokumenty "} {#kekorektuře-povinnost-vytvářet-přístupné-dokumenty}
 
 Ukázali jsme si velmi rozsáhlý  *Legislativní rámec*, z nějž tedy plyne obecná i konkrétní technická povinnost vytvářet  přístupné dokumenty. Protože úřady toto ale ignorovaly, přikročilo se k jednoznačnému stanovení technické přístupnosti.
 
@@ -242,7 +241,7 @@ Co to znamená?
 
 ## 🖋Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
 
-## POKOREKTUŘE Náležitosti dokumentů
+##  Náležitosti dokumentů
 
 U dokumentů ve spisové službě jsou velice důležité jejich náležitosti. Ať už se jedná o rozhodnutí, nebo o formulář či o jiný druh dokumentu. Veřejnoprávní původci jsou povinni vytvářet jen takové dokumenty, které splňují veškeré technické požadavky a obsahové a procesní náležitosti. Celá řada z nich pak také souvisí právě s přístupností dokumentu a s jeho identifikací a určením zodpovědné osoby, která taktéž zodpovídá za přístupnost a na niž se může uživatel asistivních technologií v případě problémů a nejasností obrátit.
 
@@ -291,7 +290,7 @@ Jak už bylo několikrát v tomto dokumentu nastíněno, přístupnost dokument�
 
 V každém případě tedy technickou stránku přístupnosti řeší aplikace, ve které se dokument Vytváří či generuje. Níže jsou pak rozebrány podle jednotlivých forem vzniku dokumentů způsoby, jakým se obecně přístupnost textového obsahu dokumentu zajistí.
 
-#### POKOREKTUŘE Pro dokumenty generované informačními systémy
+####  Pro dokumenty generované informačními systémy
 
 
 
@@ -314,7 +313,7 @@ Na co si dát u knihovny generátoru PDF pozor?
 - Výsledné PDF/a musí splňovat veškeré požadavky technické normy pro PDF/a formát a technické normy pro přístupnost PDF/a dokumentů.
 - Výsledné PDF musí být přístupné, tedy splňovat [technické charakteristiky a funkce přístupných dokumentů](#technick%C3%A9-charakteristiky-a-vlastnosti-p%C5%99%C3%ADstupn%C3%A9ho-dokumentu-technick%C3%A9-charakteristiky-a-vlastnosti-p%C5%99%C3%ADstupn%C3%A9ho-dokumentu)
 
-#### POKOREKTUŘE Pro dokumenty vytvářené v editorech
+####  Pro dokumenty vytvářené v editorech
 
 Dalším obvyklým způsobem, jak se vytvářejí dokumenty, je vytvářet je přímo v nějakém textovém editoru. Do skupiny textových editorů, nebo editorů obecně, počítáme nejen textové procesory, ale například i tabulkové editory, nebo jakékoliv programy na počítači úředníka, ze kterých daný program Vytváří výstup ve formátu PDF. U editorů také platí, že v naprosté většině případů si editor vnitřně zavolá nějakou knihovnu pro vygenerování PDF dokumentů a tu používá. Výhodou v těchto případech je, že pokud nějaký editor od určitého výrobce vytváří správné soubory, máte takřka jistotu, že i ostatní programy od téhož výrobce se budou k PDF výstupu chovat obdobně. 
 
@@ -329,7 +328,7 @@ Na co je třeba si dávat v editoru při psaní dokumentu pozor?
 - PDF soubor vždy generujeme k tomu určeným způsobem, tedy pomocí funkce Uložit jako, nebo Export, nikoliv s využitím pochybných metod, jako je virtuální tisk do PDF apod.
 - Pozorně si přečteme nápovědu a informace od výrobce editoru k problematice přístupnosti, kde najdeme i řadu postupů pro daný editor.
 
-#### POKOREKTUŘE Pro dokumenty doručené od jiného původce
+####  Pro dokumenty doručené od jiného původce
 
 Tahle oblast je velice kontroverzní. Je třeba si uvědomit, že všichni veřejnoprávní původci mají stejné povinnosti překonat určitý alibismus za situace, kdy si někdo jiný takové povinnosti neplní. Velice často se stává, že původci je doručen dokument od jiného veřejnoprávního původce (tedy od organizace,  jež má stran spisové služby a dokumentů stejné povinnosti, a to buď pro účely nějakého řízení, nebo dokonce jako dokument, který má daný původce za povinnost zveřejnit kupříkladu umístěním na úřední desku.
 
@@ -365,7 +364,7 @@ Aby byl výsledek OCR procesu co nejlepší, je nutné dodržet tato pravidla:
 -   zvolit optimální rozvržení textu v ploše dokumentu (tzn. zajistit optimální rozprostření textu v dokumentu, a tak využít celou jeho plochu)
 -   analogový dokument posílat v neporušené podobě (tzn. zajistit, aby analogový dokument nebyl jakýmkoliv způsobem poničený či deformovaný)
 
-### POKOREKTUŘE Přístupnost u dynamických druhů dokumentů
+###  Přístupnost u dynamických druhů dokumentů
 
 Kromě textových a statických dokumentů, které jsou ze své podstaty vhodné pro úplné zpřístupnění obsahu, je nezbytné se věnovat také přístupnosti u ostatních druhů dokumentů. Tato metodika nemá za cíl ukázat technická řešení pro přístupnost dynamických dokumentů, přesto je nutné a vhodné pro jednotlivé dynamické druhy dokumentů dodržovat následující základní principy:
 
