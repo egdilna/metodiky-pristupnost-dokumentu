@@ -52,7 +52,9 @@ Kromě obecně používaných pojmů z oblasti spisové služby, má přístupno
 
 # 🖋Manažerské shrnutí
 
-# 🖋Přístupnost dokumentů
+# KEKOREKTUŘE Přístupnost dokumentů
+
+Následuje znalostní a teoretická část, ve které se dozvíte, co je to přístupnost dokumentů a že jde o nezpochybnitelnou povinnost a také se dozvíte konkrétní přínosy, abyste pochopili, proč je to tak důležité. 
 
 ## 🖋Co je přístupnost dokumentů a proč to řešit?
 
@@ -146,6 +148,26 @@ Přístupnost dokumentu je ve skutečnosti jednou z technických podrobností v�
 
 
 ### Druhy a formy dokumentů a jejich správy {#druhy-a-formy-dokumentů-a-jejich-správy}
+
+Podle formy dokumentů rozlišujeme dokumenty na:
+
+- Analogové (fyzické/listinné)
+- Digitální (elektronické)
+
+Podle původu pak rozlišujeme dokumenty na:
+
+- Doručené dokumenty (od někoho jiného)
+- Dokumenty vzniklé z vlastní činnosti - vlastní dokumenty (veškeré moje)
+
+Rozlišujeme pak obsahově/technickou formu, a to na:
+
+- Statické textové dokumenty (dokumenty, dopisy, rozhodnutí, vyhlášky)
+- Statické obrazové dokumenty (fotografie, nákresy, mapy)
+- Dynamické obrazové dokumenty (video, dynamické obrazové prezentace)
+- Zvukové dokumenty (záznamy zvuku, hudba)
+- Databáze a datové věty (XML data)
+
+
 
 ### Způsoby vzniku vlastního dokumentu
 
