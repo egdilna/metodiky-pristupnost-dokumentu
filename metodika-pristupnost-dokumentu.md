@@ -320,7 +320,9 @@ Technické a procesní náležitosti dokumentu jsou náležitosti a postupy, kte
 
 Ne vše si může ověřit uživatel na svém zařízení, ale vše se dá ověřit zpětně. Co se týče technických požadavků (výstupní formát, textová vrstva a datová struktura), ty pak přímo souvisejí s čitelností a přístupností a se zpracováním obsahu dokumentu.
 
-## 🖋Přístupnost u druhů a forem dokumentů
+## KEKOREKTUŘE Přístupnost u druhů a forem dokumentů
+
+V této kapitole si popíšeme to asi věcně nejdůležitější, tedy jak zajistit přístupnost u jednotlivých druhů dokumentů a to zejména podle způsobu jejich vzniku. Na tyto postupy zajištění přístupnosti je třeba vždy velice důsledně dbát.
 
 ### 🖋Přístupnost pro digitální dokumenty
 
@@ -417,8 +419,11 @@ Kromě textových a statických dokumentů, které jsou ze své podstaty vhodné
     -   Textový přepis prezentovat ve formě titulků na textovém základě v patřičném standardu pro titulky, tedy nevkládat je přímo do videostopy, ale zajistit je jako samostatný kontejner ve videu s textovým obsahem
     -   Pokud jde o informativní video s jedním mluvčím, zajistit, aby byl mluvčí po celou dobu záznamu zřetelně vidět a aby zřetelně artikuloval pro případné odezírání, nebo video opatřit překladem do znakového jazyka s mluvící hlavou, aby bylo možno odezírat
 
-## 🖋Jak řešit přístupnost u jednotlivých způsobů vzniku dokumentu
 
-## 🖋Co je nepřípustné a co nikdy nedělat
 
-# 🖋Návodné a kontrolní seznamy
+## Co je nepřípustné a co nikdy nedělat
+
+Vyvarujte se následujícím věcem:
+
+1. Vytváření analogových (listinnýc) dokumentů a jejich zpětné skenování (i s OCR). Toto jednak je v rozporu s právním řádem (viz povinnosti) a jednak se tím dokument v celém svém životním cyklu zneplatní a také mimochodem nebude přístupný.
+2. Převádění digitálních dokumentů nekvalitními knihovnami jež negenerují validní výstupní formát včetně textové vrstvy a splnění požadavků na přístupnost.
