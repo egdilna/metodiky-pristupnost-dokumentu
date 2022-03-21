@@ -239,27 +239,27 @@ Co to znamená?
 
 ## 🖋Práce s přístupným dokumentem a přínosy přístupnosti
 
-Osoba se specifickými potřebami, hlavně tedy osoba nevidomá či slabozraká, využívá pro seznámení se s obsahem digitálního dokumentu speciální nástroje, které jsou schopny přesně takovou informaci reprodukovat. Je důležité, aby digitální dokument při svém vzniku splňoval veškeré požadavky přístupnosti. Jestliže vznikne digitální dokument podle vyžadovaných pravidel přístupnosti, je prakticky zaručeno, že dokument, tedy jeho obsah, bude přístupný pro specifické nástroje, které využívá osoba nevidomá nebo osoba slabozraká.
+Osoba se specifickými potřebami, hlavně tedy osoba nevidomá či slabozraká, využívá pro seznámení se s obsahem digitálního dokumentu speciální softwarové a hardwarové nástroje, které jsou schopny takovou informaci ekvivalentně reprodukovat. Je důležité, aby digitální dokument při svém vzniku splňoval veškeré požadavky přístupnosti. Jestliže vznikne digitální dokument podle vyžadovaných pravidel přístupnosti, je prakticky zaručeno, že dokument, tedy jeho obsah, bude přístupný pro specifické nástroje, které využívá právě osoba nevidomá nebo osoba slabozraká.
 
-Osoba nevidomá využívá specifické nástroje, díky kterým je schopna se z obsahem digitálního dokumentu plně seznámit. A mezi takové nástroje řadíme:
+Osoba nevidomá využívá tyto specifické nástroje, díky kterým je možné se z obsahem digitálního dokumentu plně seznámit. A mezi takové nástroje řadíme:
 
 - ScreenReader - čtečka obrazovky s hlasovým výstupem
-- - Ta je schopna odečítat textové informace viditelné na obrazovce elektronického zařízení a následně tyto informace reprodukovat uživateli prostřednictvím hlasové syntézy
-- Brailleský řádek
-- - Ten je schopen reprodukovat textové informace viditelné na obrazovce elektronického zařízení uživateli prostřednictvím reliéfního brailleova písma
+- - Ten je schopen odečítat textové informace viditelné na obrazovce elektronického zařízení a následně tyto informace reprodukovat uživateli prostřednictvím hlasové syntézy - umělého hlasu
+- Braillský řádek
+- - Ten je schopen reprodukovat textové informace viditelné na obrazovce elektronického zařízení uživateli prostřednictvím reliéfního braillova písma
 
-Aby bylo možné všechny tyto speciální nástroje využít, je nutné, aby digitální dokumenty vznikly v souladu s přístupností takových dokumentů. Protože nevidomý člověk využívá klasický software pro čtení či editaci digitálního textu tak, jako běžný člověk, tedy jedná se o programy jako Acrobat Reader, Microsoft Word a další, je potřeba dodržet pravidla, která umožní nevidomému uživateli plně se s obsahem digitálního dokumentu seznámit.
-Tedy, je důležité, aby byl digitální dokument vytvořen ve struktuře, která bude využívat nadpisy a další orientační prvky digitálního dokumentu, jež uvozují samotný obsah. Protože právě takováto struktura umožňuje nevidomému člověku rychle se seznámit jak s rozvržením dokumentu, tak i s jeho obsahem, je nutné, aby takovýto dokument pravidla přístupnosti obsahoval. Je naprosto žádoucí, aby se v dokumentu vyskytovala vždy textová vrstva a v případě, že dokument obsahuje i určitou grafiku, aby ta byla doprovázena jejím textovým popisem.
+Aby bylo možné všechny tyto speciální nástroje využít, je nutné, aby digitální dokument vznikl v souladu s požadavky na přístupný digitální dokument. Protože nevidomý člověk využívá klasický software pro čtení či editaci digitálního textu tak, jako běžný člověk, tedy jedná se o programy jako Acrobat Reader, Microsoft Word a další, je nutné věnovat vzniku takového dokumentu maximální pozornost stran jeho přístupnosti.
+Tedy, je důležité, aby byl digitální dokument vytvořen tak, aby využíval Značky struktury dokumentu, které definují pořadí čtení a identifikují nadpisy, odstavce, sekce, tabulky a další prvky stránky. Je naprosto nezbytné, aby se v dokumentu vyskytovala vždy textová vrstva a v případě, že dokument obsahuje i určitou grafiku, aby ta byla doprovázena jejím textovým popisem, alternativním textem.
+Prvky jako jsou nadpisy, odstavce, ale i tabulky a další, jsou nevidomému oporou při orientaci v digitálním dokumentu a tvoří nezbytnou součást při chápání struktury a obsahu / sdělení takového dokumentu. A screenreader všechny tyto prvky identifikuje a nabízí uživateli možnost jednak jejich zaměření prostřednictvím rychlé volby, jednak umožňuje také jejich filtrování a zobrazování v tématických seznamech / skupinách.
 
-Osoba slabozraká využívá specifické nástroje, díky kterým je schopna se z obsahem digitálního dokumentu plně seznámit.  A mezi takové nástroje řadíme:
+Osoba slabozraká využívá tyto specifické nástroje, díky kterým je možné se z obsahem digitálního dokumentu plně seznámit.  A mezi takové nástroje řadíme:
 
 - Zvětšovací software s hlasovou podporou
-- - Jedná se o speciální software, který umožňuje slabozrakému uživateli si vizuální stránku digitálního dokumentu upravit tak, aby mu plně graficky vyhovovala. Tedy, díky takovému software si může uživatel naprosto individuálně nastavit barvu popředí a pozadí tak, aby tyto dva prvky byly v co největším kontrastu. A také nastavit velikost písma či grafiky tak, aby byl schopen tyto vizuální prvky sledovat pouhým okem či za přispění běžných optických pomůcek.
+- - Jedná se o speciální software, který umožňuje slabozrakému uživateli si vizuální stránku digitálního dokumentu upravit tak, aby mu plně graficky vyhovovala. Tedy, díky takovému software si může uživatel naprosto individuálně nastavit barvu popředí a pozadí tak, aby tyto dva prvky byly v co největším kontrastu. A také nastavit si velikost písma či grafiky tak, aby byl schopen tyto vizuální prvky sledovat pouhým okem či za přispění běžných optických pomůcek.
 - Hlasová podpora
 - - Jedná se o doplněk zvětšovacího software, který umožňuje slabozrakému uživateli seznámit se s větším obsahem textů tak, aby slabozraký uživatel nemusel rozsáhlý text číst zrakem. Tedy, zde využívá hlasovou syntézu, která mu reprodukuje hlasem samotný text digitálního dokumentu. A napomáhá tak k určité jeho vizuální relaxaci.
 
 Proto je nutné, aby digitální dokument v jeho původní podobě byl vytvořen dle pravidel přístupnosti, tedy, aby byla správně zvolena barva popředí a pozadí, aby byl zvolen optimální kontrast a rozvržení obsahu digitálního dokumentu a aby digitálnídokument neobsahoval graficky i barevně náročný obsah.
-
 
 ## Důsledky nesplnění přístupnosti dokumentů
 
