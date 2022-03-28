@@ -298,6 +298,9 @@ Obecně jde o plnění povinností. Platí, že pokud úřad řádně plní veš
 
 ## 🖋Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
 
+Přístupnost dokumentů je jedním z více technických aspektů pro vyhotovování dokumentů a také pro kontrolu platnosti a úplnosti doručených dokumentů. Je tedy nezbytné se zabývat také přístupností, když řešíme procesy a činnosti spojené s dokumenty.
+
+
 ##  Náležitosti dokumentů
 
 U dokumentů ve spisové službě jsou velice důležité jejich náležitosti. Ať už se jedná o rozhodnutí, nebo o formulář či o jiný druh dokumentu. Veřejnoprávní původci jsou povinni vytvářet jen takové dokumenty, které splňují veškeré technické požadavky a obsahové a procesní náležitosti. Celá řada z nich pak také souvisí právě s přístupností dokumentu a s jeho identifikací a určením zodpovědné osoby, která taktéž zodpovídá za přístupnost a na niž se může uživatel asistivních technologií v případě problémů a nejasností obrátit.
