@@ -43,14 +43,14 @@ Kromě obecně používaných pojmů z oblasti spisové služby, má přístupno
 
 
 
-# KEKOREKTUŘE Přístupnost dokumentů
+# Přístupnost dokumentů
 
 
-Následuje znalostní a teoretická část, ve které se dozvíte, co je to přístupnost dokumentů a že jde o nezpochybnitelnou povinnost a také se dozvíte konkrétní přínosy, abyste pochopili, proč je to tak důležité. 
+Následuje znalostní a teoretická část, ve které se dozvíte, co je to přístupnost dokumentů a že jde o nezpochybnitelnou povinnost. Také se dozvíte konkrétní přínosy, abyste pochopili, proč je to tak důležité. 
 
-## KEKOREKTUŘE Co je přístupnost dokumentů a proč to řešit?
+## Co je přístupnost dokumentů a proč to řešit?
 
-Přístupnost dokumentů je jednou ze základních schopností všech úřadů a organizací, jež jsou podle zákona veřejnoprávními původci a tedy  spravují a vy tváří dokumenty. Fakticky se jedná o způsob technické tvorby dokumentů tak, aby se s jejich obsahem a strukturou mohli plně seznámit a plně s nimi pracovat skutečně všichni uživatelé a to včetně osob se zdravotním postižením či jiným funkčním omezením.
+Přístupnost dokumentů je jednou ze základních schopností všech úřadů a organizací, jež jsou podle zákona veřejnoprávními původci, a tedy  spravují a vytvářejí dokumenty. Fakticky se jedná o způsob technické tvorby dokumentů tak, aby se s jejich obsahem a strukturou mohli plně seznámit a plně s nimi pracovat skutečně všichni uživatelé, a to včetně osob se zdravotním postižením či jiným funkčním omezením.
 
 
 Je důležité si v této souvislosti uvědomit několik podstatných věcí:
@@ -59,7 +59,7 @@ Je důležité si v této souvislosti uvědomit několik podstatných věcí:
 1. Vytvářet přístupné dokumenty je i stávající povinnost zakotvená v legislativě ke spisové službě, ale úřady tuto povinnost často ignorují.
 2. I stávající dokument úřadu, pokud není přístupný, není právně platný, neboť vznikl v rozporu se zákonem, protože nemá řádné technické náležitosti.
 3. Podařilo se, i přes dosavadně dostačující úpravu, aktualizovat konkrétní technické povinnosti přístupných dokumentů.
-4. Určitým způsobem, (ale ne zcela) to souvisí s WMAA, kdy jde o jistou formu obsahu.
+4. Určitým způsobem, (ale ne zcela), to souvisí s WMAA, kdy jde o jistou formu obsahu.
 5. V roce 2022 bude na tuto oblast zaměřena pozornost, bude i součástí atestací elektronických systémů spisových služeb (ESSL) a budou tvořeny metodiky a technické templaty.
 
 
@@ -69,17 +69,17 @@ Je důležité co nejlépe porozumět tomu, jaký dokument je a není přístupn
 
 ### Co je to vlastně přístupný dokument a jak se s ním dá pracovat 
 
-Přístupný dokument je digitální dokument, který je technicky vytvořen tak, že s ním a s jeho obsahem může pracovat kdokoliv, a to včetně osob se zdravotním postižením. Ti totiž potřebují pracovat s textem jeho obsahu. Dokument třeba ve formátu PDF nemusí být totiž přístupný jen proto, že je v PDF. To, co vidí běžný uživatel na obrazovce, totiž může být jen obrazová informace, nikoliv text ve strojově čitelném formátu. Představte si to tak, jako kdybyste se pokusili editovat v textovém editoru pouhý obrázek textu. Nemůžete ho upravovat, ani text z něj zkopírovat do jiného dokumentu. A přesně takto technicky funguje práce s textovým obsahem přístupného dokumentu. Uživatelé, kteří text nevidí, si jej musí nechat přečíst buď počítačovým hlasem, nebo na braillském řádku braillovým písmem. Pokud je dokument vytvořen správně, tak se s jeho obsahem může takový uživatel seznámit jako ostatní, ale kdokoliv si z textu dokumentu může i cokoliv zkopírovat či poznamenat. Zkrátka, nepracuje s obrazem viditelným na obrazovce, ale s textem jako v textovém editoru. Formát PDF/a navíc zajistí, že s obsahem dokumentu nikdo nemůže manipulovat a v textu něco změnit. Uživatel vždy věří obsahu textové vrstvy, a proto je zásadní požadavek na shodu obrazu s textem.
+Přístupný dokument je digitální dokument, který je technicky vytvořen tak, že s ním a s jeho obsahem může pracovat kdokoliv, a to včetně osob se zdravotním postižením. Ti totiž potřebují pracovat s textem jeho obsahu. Dokument kupříkladu ve formátu PDF nemusí být totiž přístupný jen proto, že je v PDF. To, co vidí běžný uživatel na obrazovce, totiž může být jen obrazová informace, nikoliv text ve strojově čitelném formátu. Představte si to tak, jako kdybyste se pokusili editovat v textovém editoru pouhý obrázek textu. Nemůžete ho upravovat, ani text z něj zkopírovat do jiného dokumentu. A přesně takto technicky funguje práce s textovým obsahem přístupného dokumentu. Uživatelé, kteří text nevidí, si jej musí nechat přečíst buď počítačovým hlasem, nebo na braillském řádku braillovým písmem. Pokud je dokument vytvořen správně, tak se s jeho obsahem může takový uživatel seznámit jako ostatní, ale kdokoliv si z textu dokumentu může i cokoliv zkopírovat či poznamenat. Zkrátka, nepracuje s obrazem viditelným na obrazovce, ale s textem jako v textovém editoru. Formát PDF/a navíc zajistí, že s obsahem dokumentu nikdo nemůže manipulovat a v textu něco změnit. Uživatel vždy věří obsahu textové vrstvy, a proto je zásadní požadavek na shodu obrazu s textem.
 
-Jak se s přístupným dokumentem pracuje? Běžný úživatel s ním pracuje zcela klasicky jako s jakýmkoliv jiným dokumentem, nicméně může využívat výhody, jako je hledání v textu, možnost si část textu označit a zkopírovat či si dokument nechat číst nahlas umělým hlasem (to se hodí zejména u delších dokumentů a elektronických knih). Také informační systémy a aplikace mohou těžit z toho, že dokument obsahuje strojově čitelný text, a tak lze v takových dokumentech třeba i indexovat, nebo prohledávat celé složky na konkrétní text.
+Jak se s přístupným dokumentem pracuje? Běžný uživatel s ním pracuje zcela klasicky jako s jakýmkoliv jiným dokumentem, nicméně může využívat výhody, jako je hledání v textu, možnost si část textu označit a zkopírovat či si dokument nechat číst nahlas umělým hlasem (to se hodí zejména u delších dokumentů a elektronických knih). Také informační systémy a aplikace mohou těžit z toho, že dokument obsahuje strojově čitelný text, a tak lze v takových dokumentech třeba i indexovat, nebo prohledávat celé složky na konkrétní text.
 
-Uživatel s nějakým zdravotním postižením (většinou se pochopitelně jedná o nevidomé či slabozraké) používá tzv. \"Asistivní technologie\", tedy software schopný text číst umělým hlasem či zobrazit na braillském řádku. Nebo software umožňující úpravu obrazu (zvětšit a zvíraznit text, obrátit barvy, apod.). Takzvané odečítače obrazovky zprostředkovávají jakýkoliv textový obsah viditelný na obrazovce, tedy i text dokumentu. Zatímco třeba na webových stránkách či v textovém editoru to není problém, u procházení digitálního dokumentu v PDF záleží právě na tom, jestli dané PDF má textovou reprezentaci a textovou vrstvu. Bez ní se jedná jen o obrazové PDF, a to z principu čitelné není. S textovou vrstvou ale uživatel prochází text dokumentu jako na webové stránce, a to včetně případných odkazů, nadpisů, částí a popsaných obrázků. Uživatel asistivních technologií může dokumentem procházet, číst jednotlivá slova, věty či celé odstavce, rychle se přesouvat mezi částmi textu, nadpisy, odkazy, formulářovými prvky a dalším typem obsahu. Pro něj je to tak jediná cesta, jak s takovým digitálním dokumentem pracovat.
+Uživatel s nějakým zdravotním postižením (většinou se pochopitelně jedná o nevidomé či slabozraké) používá tzv. \"Asistivní technologie\", tedy software schopný text číst umělým hlasem či zobrazit na braillském řádku. Nebo software umožňující úpravu obrazu (zvětšit a zvíraznit text, obrátit barvy, apod.). Takzvané odečítače obrazovky zprostředkovávají jakýkoliv textový obsah viditelný na obrazovce, tedy i text dokumentu. Zatímco třeba na webových stránkách či v textovém editoru to není problém, u procházení digitálního dokumentu v PDF záleží právě na tom, jestli dané PDF má textovou reprezentaci a textovou vrstvu. Bez ní se jedná jen o obrazové PDF a to z principu čitelné není. S textovou vrstvou ale uživatel prochází text dokumentu jako na webové stránce, a to včetně případných odkazů, nadpisů, částí a popsaných obrázků. Uživatel asistivních technologií může dokumentem procházet, číst jednotlivá slova, věty či celé odstavce, rychle se přesouvat mezi částmi textu, nadpisy, odkazy, formulářovými prvky a dalším typem obsahu. Pro něj je to tak jediná cesta, jak s takovým digitálním dokumentem pracovat.
 
 Pracovat svým způsobem může i s analogovým (listinným) dokumentem, a to jeho naskenováním a převodem OCR, ale to zdaleka není tak pohodlné, především to však není stoprocentní. Více v kapitole *Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií*. Protože ale veřejnoprávní původci musejí povinně vytvářet výhradně digitální dokumenty, takováto situace defacto vůbec nemůže nastat. Ale velice podobné to může být s naskenovaným PDF dokumentem. Taková situace u vlastních dokumentů původce ale také nesmí nastat, neboť by tím byl porušen zákon ve formě vyhotovení druhu a formátu dokumentu.
 
 Dokument musí splňovat základní *Technické charakteristiky a vlastnosti přístupného dokumentu*, aby byl pro každého uživatele a každý systém zcela přístupný. U dokumentů veřejné správy je to o to důležitější, že v takových dokumentech jsou pro uživatele mnohdy zcela zásadní informace a určují a mění jeho práva a povinnosti. I proto je přístupnost nezbytností. Navíc, oběma stranám to ušetří spoustu času a nervů, také úředník může těžit z textové reprezentace dokumentu při své běžné práci i při úkonech, které v elektronickém systému spisové služby nedělá tak často (kupříkladu hledání v rozsáhlé databázi dokumentů).
 
-Uživatelé se zdravotním postižením velice často a rádi využívají digitalizaci a digitální komunikaci s úřadem, ostatně eGovernment má jako jeden z důvodů také rovnost a přístupnost, neboť v digitální formě je vše daleko přístupnější, než v listinné. K takovému uživateli se dokumenty dostanou buď prostřednictvím jeho datové schránky (je-li příjemcem), nebo si je najde na internetových stránkách a nově i v elektronických aplikacích či na portálu po přihlášení. Dokument si buď stáhne do zařízení, nebo si jej rovnou zobrazí. Dnes je PDF prohlížeč s integrovaným odečítačem (podporou pro asistivní technologie) součástí i každého webového prohlížeče, ale existují i specializované programy pro práci s PDF, jako je Acrobat Reader, nebo třeba i Microsoft Word. (Ve kterém se dá PDF také otevřít).
+Uživatelé se zdravotním postižením velice často a rádi využívají digitalizaci a digitální komunikaci s úřadem, ostatně eGovernment má jako jeden z důvodů také rovnost a přístupnost, neboť v digitální formě je vše daleko přístupnější, než v listinné. K takovému uživateli se dokumenty dostanou buď prostřednictvím jeho datové schránky (je-li příjemcem), nebo si je najde na internetových stránkách a nově i v elektronických aplikacích či na portálu po přihlášení. Dokument si buď stáhne do zařízení, nebo si jej rovnou zobrazí. Dnes je PDF prohlížeč s integrovaným odečítačem (podporou pro asistivní technologie) součástí i každého webového prohlížeče, ale existují i specializované programy pro práci s PDF, jako je Acrobat Reader, nebo třeba i Microsoft Word, (ve kterém se dá PDF také otevřít).
 
 ### Technické charakteristiky a vlastnosti přístupného dokumentu 
 
@@ -143,13 +143,12 @@ Instituce veřejného sektoru se souhrnně nazývají takzvanými veřejnoprávn
 
 ### KEKOREKTUŘE Spisová služba jako odborná správa dokumentů
 
-Legislativa definuje takzvané veřejnoprávním původce, což jsou organizace a subjekty, kteří podle příslušného zákona mají za povinnost vykonávat odbornou zprávu dokumentu. Tu realizují výkonem spisové služby a to zejména spisové služby v elektronické podobě.
+Legislativa definuje takzvané veřejnoprávní původce, což jsou organizace a subjekty, které podle příslušného zákona mají za povinnost vykonávat odbornou správu dokumentů. Tu realizují výkonem spisové služby, a to zejména spisové služby v elektronické podobě.
 
-Spisová služba je souborem procesů a to zejména: Příjem, označování, evidence, rozdělování, vyřizování, tvorba, vyhotovování, podepisování, odesílání, uzavírání, uchovávání a skartace dokumentů.
+Spisová služba je souborem procesů, a to zejména: příjem, označování, evidence, rozdělování, vyřizování, tvorba, vyhotovování, podepisování, odesílání, uzavírání, uchovávání a skartace dokumentů.
 
 
-
-Přístupnost dokumentu je ve skutečnosti jednou z technických podrobností výboru spisové služby a to zejména u dokumentu vzniklých z vlastní činnosti. Každý veřejnoprávním původce má za povinnost plnit veškeré požadavky výkon spisové služby a mezi tyto požadavky patří také vytvářet výhradně přístupné dokumenty v digitální podobě.
+Přístupnost dokumentů je ve skutečnosti jednou z technických podrobností výkonu spisové služby, a to zejména u dokumentů vzniklých z vlastní činnosti. Každý veřejnoprávní původce má za povinnost plnit veškeré požadavky výkonu spisové služby a mezi tyto požadavky patří také vytvářet výhradně přístupné dokumenty v digitální podobě.
 
 
 ### Druhy a formy dokumentů a jejich správy 
@@ -180,12 +179,12 @@ Dokument v úřadu může vzniknout více různými způsoby. Přestože musejí
 
 Můžeme se zabývat těmito základními způsoby vzniku vlastního dokumentu:
 
-- Výstup z elektronického systému spisové služby (ESSL): I přesto, že to úřady často ignorují, jde o jedinou správnou formu vzniku jakéhokoliv dokumentu v úřadu. ESSL je systém, v němž dochází k vyhotovování a finalizaci a odesílání dokumentu. Dokument se vždy vytváří jako digitální dokument se všemi náležitostmi.
+- Výstup z elektronického systému spisové služby (ESSL): I přes to, že to úřady často ignorují, jde o jedinou správnou formu vzniku jakéhokoliv dokumentu v úřadu. ESSL je systém, v němž dochází k vyhotovování a finalizaci a odesílání dokumentu. Dokument se vždy vytváří jako digitální dokument se všemi náležitostmi.
 -   Výstup generovaný z jiného informačního systému (AIS/ISSD): I zde se jedná o automatické generování a tvorbu souboru dokumentu informačním systémem. Dokument v tomto případě negeneruje samotný elektronický systém spisové služby, ale jiný informační systém. Při takovém generování je nutno ale použít správnou knihovnu pro generování PDF a dodržet veškeré technické náležitosti pro dokument.
 -   Dokument doplňovaný ze šablony v rámci informačního systému: Informační systém nemusí generovat dokument samostatně. V řadě případů uživatel v příslušném systému připraví určité části obsahu a systém je pak doplní do předpřipravené šablony a z ní pak technicky vygeneruje PDF dokument k jeho vyhotovení a finalizaci. I zde je nezbytné dodržet veškeré technické požadavky na výsledné PDF soubory.
 -   Ručně vytvářený dokument mimo informační systém (na počítači úředníka): V některých případech může dokument technicky vznikat i zcela mimo elektronický systém spisové služby (a musí být pak do ESSL řádně vložen a v něm spravován), a to třeba v textovém editoru nebo v jiné aplikaci na počítači zaměstnance úřadu. I v tomto případě je nutno zajistit jeho správný výstupní formát se všemi technickými náležitostmi.
--   Dokument přijatý jako doručený a poskytnutý jako odeslaný: Původce odesílá/zveřejňuje i dokumenty jiných původců (kupříkladu podklady od jiného OVM či od jiného účastníka řízení). V takovém případě platí povinnosti správy dokumentu v ESSL či ISSD a pokud dokument není ve správném výstupním formátu a je od organizace, která nemá za povinnost vykonávat spisovou službu, musí původce takový dokument převést do výstupniho formátu. Zde je to ale už trochu složitější.
--   Dokument jiného původce zveřejněný na úřední desce: Speciální případ předchozího způsobu. Původce je mnohdy povinen zveřejnit dokument jiného původce na svojí úřední desce. Problém je, pokud ten, kdo takový dokument původci zaslal, nesplnil veškeré povinnosti a požadavky na takový dokument. Původce jej má správně nezveřejnit a uložit odesílateli, aby odstranil vady dokumentu a uvedl ho do souladu se zákonem. Vzhledem k tomu, že původce nemůže při zveřejnění dokumentu na úřední desce tímto dokumentem jakkoliv technicky manipulovat, je to jediný legální způsob, jak požadavky zajistit.
+-   Dokument přijatý jako doručený a poskytnutý jako odeslaný: Původce odesílá/zveřejňuje i dokumenty jiných původců (kupříkladu podklady od jiného OVM či od jiného účastníka řízení). V takovém případě platí povinnosti správy dokumentu v ESSL či ISSD a pokud dokument není ve správném výstupním formátu a je od organizace, která nemá za povinnost vykonávat spisovou službu, musí původce takový dokument převést do výstupního formátu. Zde je to ale už trochu složitější.
+-   Dokument jiného původce zveřejněný na úřední desce: Speciální případ předchozího způsobu. Původce je mnohdy povinen zveřejnit dokument jiného původce na své úřední desce. Problém je, pokud ten, kdo takový dokument původci zaslal, nesplnil veškeré povinnosti a požadavky na takový dokument. Původce jej má správně nezveřejnit a uložit odesílateli, aby odstranil vady dokumentu a uvedl ho do souladu se zákonem. Vzhledem k tomu, že původce nemůže při zveřejnění dokumentu na úřední desce tímto dokumentem jakkoliv technicky manipulovat, je to jediný legální způsob, jak požadavky zajistit.
 
 ##  Legislativní rámec
 
@@ -235,7 +234,7 @@ Co to znamená?
 -   Nesmí vytvářet jiné, než digitální dokumenty (se všemi dopady a konsekvencemi)
 -   Dokument musí být ve formátu PDF/A2x a vyšší a musí obsahovat textovou vrstvu (ve správné ISO specifikaci)
 -   Nebo je dokument také v jiném formátu (podle posledního odstavce), i pak musí obsahovat textovou vrstvu
--   Není přípustné OCR, pokud ESSL nezaznamenal v protokolu zodpovědnost úředníka za úplný soulad textové vrstvy
+-   Není přípustné OCR, tedy pokud ESSL nezaznamenal v protokolu zodpovědnost úředníka za úplný soulad textové vrstvy
 -   Dokument nemající textovou vrstvu nevznikl v souladu se zákonem, tedy právně nemůže existovat
 -   U vybraných typů dokumentů bude povinně PDF obsahovat i standardizovanou XML datovou větu se strukturovanými informacemi a obsahem
 
@@ -246,9 +245,9 @@ Osoba se specifickými potřebami, hlavně tedy osoba nevidomá či slabozraká,
 Osoba nevidomá využívá tyto specifické nástroje, díky kterým je možné se z obsahem digitálního dokumentu plně seznámit. A mezi takové nástroje řadíme:
 
 - ScreenReader - čtečka obrazovky s hlasovým výstupem
-- - Ten je schopen odečítat textové informace viditelné na obrazovce elektronického zařízení a následně tyto informace reprodukovat uživateli prostřednictvím hlasové syntézy - umělého hlasu
+    - Ten je schopen odečítat textové informace viditelné na obrazovce elektronického zařízení a následně tyto informace reprodukovat uživateli prostřednictvím hlasové syntézy - umělého hlasu
 - Braillský řádek
-- - Ten je schopen reprodukovat textové informace viditelné na obrazovce elektronického zařízení uživateli prostřednictvím reliéfního braillova písma
+    - Ten je schopen reprodukovat textové informace viditelné na obrazovce elektronického zařízení uživateli prostřednictvím reliéfního braillova písma
 
 Aby bylo možné všechny tyto speciální nástroje využít, je nutné, aby digitální dokument vznikl v souladu s požadavky na přístupný digitální dokument. Protože nevidomý člověk využívá klasický software pro čtení či editaci digitálního textu tak, jako běžný člověk, tedy jedná se o programy jako Acrobat Reader, Microsoft Word a další, je nutné věnovat vzniku takového dokumentu maximální pozornost stran jeho přístupnosti.
 Tedy, je důležité, aby byl digitální dokument vytvořen tak, aby využíval Značky struktury dokumentu, které definují pořadí čtení a identifikují nadpisy, odstavce, sekce, tabulky a další prvky stránky. Je naprosto nezbytné, aby se v dokumentu vyskytovala vždy textová vrstva a v případě, že dokument obsahuje i určitou grafiku, aby ta byla doprovázena jejím textovým popisem, alternativním textem.
@@ -257,9 +256,9 @@ Prvky jako jsou nadpisy, odstavce, ale i tabulky a další, jsou nevidomému opo
 Osoba slabozraká využívá tyto specifické nástroje, díky kterým je možné se z obsahem digitálního dokumentu plně seznámit.  A mezi takové nástroje řadíme:
 
 - Zvětšovací software s hlasovou podporou
-- - Jedná se o speciální software, který umožňuje slabozrakému uživateli si vizuální stránku digitálního dokumentu upravit tak, aby mu plně graficky vyhovovala. Tedy, díky takovému software si může uživatel naprosto individuálně nastavit barvu popředí a pozadí tak, aby tyto dva prvky byly v co největším kontrastu. A také nastavit si velikost písma či grafiky tak, aby byl schopen tyto vizuální prvky sledovat pouhým okem či za přispění běžných optických pomůcek.
+    - Jedná se o speciální software, který umožňuje slabozrakému uživateli si vizuální stránku digitálního dokumentu upravit tak, aby mu plně graficky vyhovovala. Tedy, díky takovému software si může uživatel naprosto individuálně nastavit barvu popředí a pozadí tak, aby tyto dva prvky byly v co největším kontrastu. A také nastavit si velikost písma či grafiky tak, aby byl schopen tyto vizuální prvky sledovat pouhým okem či za přispění běžných optických pomůcek.
 - Hlasová podpora
-- - Jedná se o doplněk zvětšovacího software, který umožňuje slabozrakému uživateli seznámit se s větším obsahem textů tak, aby slabozraký uživatel nemusel rozsáhlý text číst zrakem. Tedy, zde využívá hlasovou syntézu, která mu reprodukuje hlasem samotný text digitálního dokumentu. A napomáhá tak k určité jeho vizuální relaxaci.
+    - Jedná se o doplněk zvětšovacího software, který umožňuje slabozrakému uživateli seznámit se s větším obsahem textů tak, aby slabozraký uživatel nemusel rozsáhlý text číst zrakem. Tedy, zde využívá hlasovou syntézu, která mu reprodukuje hlasem samotný text digitálního dokumentu. A napomáhá tak k určité jeho vizuální relaxaci.
 
 Proto je nutné, aby digitální dokument v jeho původní podobě byl vytvořen dle pravidel přístupnosti, tedy, aby byla správně zvolena barva popředí a pozadí, aby byl zvolen optimální kontrast a rozvržení obsahu digitálního dokumentu a aby digitálnídokument neobsahoval graficky i barevně náročný obsah.
 
@@ -278,33 +277,33 @@ Nezáleží přitom na tom, jestli se chyby dopustil úředník či úřad a do 
 Související ustanovení Správního řádu jsou kupříkladu §\` 2 odst. 1 a 3, § 4 odst. , 4,§ 7 odst. 2,,§ 77odst.1, § 80 odst. 1 nebo 3, doplňuje i § 177 odst. 1
 
 
-Dávejte si tedy na nepřístupné dokumenty pozor. Nejen že se teď bude tato povinnost více kontrolovat, ale jejím nesplněním můžetre klienty a sami sebe dostat do obrovských vleklých a nepříjemných problémů.
+Dávejte si tedy na nepřístupné dokumenty pozor. Nejen, že se teď bude tato povinnost více kontrolovat, ale jejím nesplněním můžete klienty, ale i sami sebe, dostat do obrovských vleklých a nepříjemných problémů.
 
 
-# KEKOREKTUŘE Jak na to
+# Jak na to
 
 Následuje praktická část s postupy a návody na splnění povinnosti. Pokud něčemu nebudete rozumět, podívejte se do předchozí části.
 
-Obecně jde o plnění povinností. Platí, že pokud úřad řádně plní veškeré povinnosti týkající se výkonu spisové služby, problém s přístupností dokumentů nemá. Ovšem, úřady na to moc nedbají a pokud se vůbec obtěžují plnit něco z požadavků ohledně výkonu spisové služby, je to v zásadě nedostatečné.
+Obecně jde o plnění povinností. Platí, že pokud úřad řádně plní veškeré povinnosti týkající se výkonu spisové služby, problém s přístupností dokumentů nemá. Ovšem, úřady na to moc nedbají, a pokud se vůbec obtěžují plnit něco z požadavků ohledně výkonu spisové služby, je to v zásadě nedostatečné.
 
 1. Přestanu ignorovat potřeby a povinnosti přístupnosti dokumentů, ale zahrnu to do své schopnosti správy dokumentů
 2. Prověřím si, zda jsou moje dokumenty přístupné a pokud ne, zjednám nápravu
 3. Budu plně akceptovat novelu z vyhlášky 504/2021 a zajistím plnění souvisejících povinností
 4. Dokumenty striktně vyhotovuji/generuji v řádném ESSL splňujícím veškeré technické požadavky
-5. Neporušuji zákon tím, že původně digitální dokument vytisknu a nechám fyzicky podepsat někým a následně dokument naskenuji
+5. Neporušuji zákon tím, že původně digitální dokument vytisknu a nechám jej fyzicky podepsat někým a následně dokument naskenuji
 6. Nevytvářím konverzí pouze obrazová PDF nebo PDF bez textové vrstvy dle ISO specifikace výstupního formátu
 7. Zkontroluji dodavatele ESSL a všech dalších systémů, v nichž vznikají moje dokumenty, zda plní povinnosti a zda generují správné dokumenty se všemi technickými náležitostmi
 8. Dokumenty vyhotovuji a vypravuji vždy ve výstupním formátu, ale mám i jejich zdrojový soubor v jiném formátu a ten v případě potřeby poskytnu také
 9. Kladu důraz zejména na úřední dokumenty a rozhodnutí určené příjemcům, také na dokumenty zveřejněné na internetu
 
 
-## KEKOREKTUŘE Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
+## Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
 
 Přístupnost dokumentů je jedním z více technických aspektů pro vyhotovování dokumentů a také pro kontrolu platnosti a úplnosti doručených dokumentů. Je tedy nezbytné se zabývat také přístupností, když řešíme procesy a činnosti spojené s dokumenty.
 
 1. U doručených dokumentů zkontrolujeme u veřejnoprávních původců, zda dokumenty splňují veškeré náležitosti a požadavky a pouze s takovými dokumenty pracujeme.
-2. U vlastních dokumentů vždy vyhotovujeme dokumenty v digitální podobě a to se splněním všech požadavků.
-3. V rámci procesů kontroly a činností mertodika a manažera spisové služby dbáme také na přístupnost.
+2. U vlastních dokumentů vždy vyhotovujeme dokumenty v digitální podobě, a to se splněním všech požadavků.
+3. V rámci procesů kontroly a činností metodika a manažera spisové služby dbáme také na přístupnost.
 
 ##  Náležitosti dokumentů
 
@@ -326,7 +325,7 @@ Základní náležitosti z pohledu obsahu a identifikace dokumentu jsou:
 
 -   Datum podpisu/vyřízení dokumentu
 
--   Podpis (kvalifikovaný elektronický podpis nebo kvalifikovanou elektronickou pečeť) a časové razítko (kvalifikované elektronické časové razítko k podpisu/pečetění)
+-   Podpis (kvalifikovaný elektronický podpis nebo kvalifikovaná elektronická pečeť) a časové razítko (kvalifikované elektronické časové razítko k podpisu/pečetění)
 
 -   Počet listů, počet příloh/částí
 
@@ -334,7 +333,7 @@ Základní náležitosti z pohledu obsahu a identifikace dokumentu jsou:
 
 Technické a procesní náležitosti dokumentu jsou náležitosti a postupy, které po technické stránce zaručují platnost dokumentu. Obdobně, jako u náležitostí obsahových, i zde platí, pokud některá z uvedených věcí neplatí a není splněna, dokument nevznikl v souladu se zákonem. Proto je třeba se i těmto náležitostem důkladně věnovat.
 
--   Dokument vznikl jako digitální dokument a po celou dobu je evidován a je s ním zacházeno jako s digitálním
+-   Dokument vznikl jako digitální dokument a po celou dobu je evidován a je s ním zacházeno jako s digitálním dokumentem
 -   Dokument, jeho životní cyklus a každá událost s ním spojená, jsou evidovány v ESSL nebo v ISSD a je řádně veden jeho transakční protokol
 -   Dokument má jasný identifikátor, kterým je buď Číslo jednací, nebo Evidenční číslo ze samostatné evidence
 -   K dokumentu jsou řádně evidována veškerá jeho povinná metadata a veškeré subjekty, jichž se týká (zejména odesílatel nebo příjemce)
@@ -347,15 +346,15 @@ Technické a procesní náležitosti dokumentu jsou náležitosti a postupy, kte
 
 Ne vše si může ověřit uživatel na svém zařízení, ale vše se dá ověřit zpětně. Co se týče technických požadavků (výstupní formát, textová vrstva a datová struktura), ty pak přímo souvisejí s čitelností a přístupností a se zpracováním obsahu dokumentu.
 
-## KEKOREKTUŘE Přístupnost u druhů a forem dokumentů
+## Přístupnost u druhů a forem dokumentů
 
-V této kapitole si popíšeme to asi věcně nejdůležitější, tedy jak zajistit přístupnost u jednotlivých druhů dokumentů a to zejména podle způsobu jejich vzniku. Na tyto postupy zajištění přístupnosti je třeba vždy velice důsledně dbát.
+V této kapitole si popíšeme to v zásadě věcně nejdůležitější, tedy, jak zajistit přístupnost u jednotlivých druhů dokumentů, a to zejména podle způsobu jejich vzniku. Na tyto postupy zajištění přístupnosti je třeba vždy velice důsledně dbát.
 
-### KEKOREKTUŘE Přístupnost pro digitální dokumenty
+### Přístupnost pro digitální dokumenty
 
-Jak už bylo několikrát v tomto dokumentu nastíněno, přístupnost dokumentů je technická záležitost. Za určitých okolností sice uživatel může ovlivnit míru přístupnosti dokumentů, nicméně důležitá je technická forma a zejména aplikace, která generuje výsledný dokument do formátu PDF. Umí-li taková aplikace vytvářet přístupné a tagované dokumenty, pak je výsledek pozitivní. Pokud ale aplikace resp. komponenta pro generování a vy tváření PDF souboru na přístupnost kašle, dokument ve výsledku přístupný nebude.
+Jak už bylo několikrát v tomto dokumentu nastíněno, přístupnost dokumentů je technická záležitost. Za určitých okolností sice uživatel může ovlivnit míru přístupnosti dokumentů, nicméně důležitá je technická forma, zejména však aplikace, která generuje výsledný dokument do formátu PDF. Umí-li taková aplikace vytvářet přístupné a tagované dokumenty, pak je výsledek pozitivní. Pokud ale aplikace, respektive, komponenta pro generování a vytváření PDF souboru  přístupnost ignoruje, dokument ve výsledku přístupný nebude.
 
-V každém případě tedy technickou stránku přístupnosti řeší aplikace, ve které se dokument Vytváří či generuje. Níže jsou pak rozebrány podle jednotlivých forem vzniku dokumentů způsoby, jakým se obecně přístupnost textového obsahu dokumentu zajistí.
+V každém případě tedy technickou stránku přístupnosti řeší aplikace, ve které se dokument vytváří či generuje. Níže jsou pak rozebrány podle jednotlivých forem vzniku dokumentů způsoby, jakými se obecně přístupnost textového obsahu dokumentu zajistí.
 
 ####  Pro dokumenty generované informačními systémy
 
@@ -367,7 +366,7 @@ Ať už dokument generuje ESSL, nebo jiný informační systém či aplikace, mu
 
 Lze  k tomu přistupovat třemi různými způsoby:
 
-1. PDF dokumenty generuje pouze elektronický systém spisové služby a žádný jiný informační systém
+1. PDF dokumenty generuje pouze elektronický systém spisové služby, nikoliv jiný informační systém
 2. Dokumenty generuje elektronický systém spisové služby a také ostatní systémy, ale tak, že pro generování dokumentu využívají službu generátoru PDF elektronického systému spisové služby
 3. Dokumenty generují i ostatní informační systémy a každý má vlastní knihovnu generátoru PDF
 
@@ -390,14 +389,14 @@ Na co je třeba si dávat v editoru při psaní dokumentu pozor?
 
 - Strukturu dokumentu dělat přes styly odstavců Nadpis 1, Nadpis 2, Nadpis 3... Tedy nadpis není to, co je tučné a podtržené, nebo má větší písmo, ale musí to být opravdu technicky nadpis.
 - Pokud je do dokumentu vložen obrázek, nákres, tabulka či jakýkoliv jiný objekt, než souvislý text, musí být správně označen a pojmenován a musí k němu být připojen alternativní text s jeho popisem.
-- Musí se dodržovat principy pro přístupnost obsahu, tedy kontrasty barev, poměr mezi textem a pozadím, velikosti písma a podobné věci. Je vhodné vycházet z potřeb norem pro obsahy webové stránky.
-- Dokument si musíme před jeho exportem do PDF zkontrolovat z hlediska přístupnosti, což většina dnes používaných editorů naštěstí umožňuje. Postu je u každého editoru jiný, ale stačí si jej nalézt v nápovědě.
+- Musí se dodržovat principy pro přístupnost obsahu, tedy kontrasty barev, poměr mezi textem a pozadím, velikostí písma a podobné věci. Je vhodné vycházet z potřeb norem pro obsahy webové stránky.
+- Dokument si musíme před jeho exportem do PDF zkontrolovat z hlediska přístupnosti, což většina dnes používaných editorů naštěstí umožňuje. Postup je u každého editoru jiný, ale stačí si jej nalézt v nápovědě.
 - PDF soubor vždy generujeme k tomu určeným způsobem, tedy pomocí funkce Uložit jako, nebo Export, nikoliv s využitím pochybných metod, jako je virtuální tisk do PDF apod.
 - Pozorně si přečteme nápovědu a informace od výrobce editoru k problematice přístupnosti, kde najdeme i řadu postupů pro daný editor.
 
 ####  Pro dokumenty doručené od jiného původce
 
-Tahle oblast je velice kontroverzní. Je třeba si uvědomit, že všichni veřejnoprávní původci mají stejné povinnosti překonat určitý alibismus za situace, kdy si někdo jiný takové povinnosti neplní. Velice často se stává, že původci je doručen dokument od jiného veřejnoprávního původce (tedy od organizace,  jež má stran spisové služby a dokumentů stejné povinnosti, a to buď pro účely nějakého řízení, nebo dokonce jako dokument, který má daný původce za povinnost zveřejnit kupříkladu umístěním na úřední desku.
+Tato oblast je velice kontroverzní. Je třeba si uvědomit, že všichni veřejnoprávní původci mají stejné povinnosti překonat určitý alibismus za situace, kdy si někdo jiný takové povinnosti neplní. Velice často se stává, že původci je doručen dokument od jiného veřejnoprávního původce (tedy od organizace,  jež má stran spisové služby a dokumentů stejné povinnosti, a to buď pro účely nějakého řízení, nebo dokonce jako dokument, který má daný původce za povinnost zveřejnit kupříkladu umístěním na úřední desku.
 
 Ve skutečnosti existuje za situace, kdy je doručen nepřístupný dokument od jiného původce, totiž jediná legální cesta. A to dokument zcela ignorovat a vyrozumět odesílatele o porušení zákona a trvat na odstranění vad dokumentu a jeho opětovném doručení.
 
@@ -405,11 +404,11 @@ Tento postup se může sice jevit složitý a neuspokojivý, ale je to opravdu j
 
 Jak tedy konkrétně v takovém případě postupovat? Bude pravděpodobně nutné, abychom si u každého doručeného dokumentu jiného původce ověřili, zda takový dokument splňuje veškeré na něj kladené požadavky. Týká se to zejména technických požadavků, a to včetně požadavku na jeho přístupnost a včetně požadavku na jeho důvěryhodnost, tedy elektronické kvalifikované validační prvky. To mimochodem musí povinně zajistit elektronický systém spisové služby, o takovém ověření nás pak informovat a zapsat jeho výsledky do transakčního protokolu. V případě nepřístupného dokumentu se bude jednat o nesplnění povinnosti výstupního formátu.  Platí tedy, že dokument nám sice byl doručen po stránce spisové služby, ale nikoliv řádně doručen podle práva, a tak se musíme chovat. Pokud nějaké náležitosti dokument nesplňuje, pak takový dokument po právní stránce nemůže ani existovat a nemohl vzniknout a my tedy  nemáme povinnost takový dokument zveřejnit na úřední desce. Máme ale jinou povinnost, a to vyrozumět odesílatele takového dokumentu, že tímto dokumentem nesplnil zákonné náležitosti a povinnosti a vyzvat ho, aby dokument vytvořil znovu a správně a s veškerými technickými náležitostmi a poté nám jej znovu odeslal k zveřejnění na úřední desce. Pochopitelně to významně ovlivňuje lhůty souvisejících povinností, neboť nepřístupný dokument, (ale také například dokument bez kvalifikovaného elektronického podpisu či pečeti a časového razítka), nemá žádné právní účinky, a tedy se na nás nevztahuje povinnost jej zveřejnit a neběží ani lhůta pro jeho zveřejnění. Pochopitelně tohle vše musíme odesílateli velmi důrazně zmínit ve vyrozumění a nařídit mu, aby nesoulad a vady takto vytvořeného neplatného dokumentu napravil on. 
 
-Podle dalších povinností týkajících se spisové služby také o všem tomhle vedeme záznamy v transakčním protokolu, tedy jsme právně i důkazně s obliga, neboť, pokud si my plníme všechny povinnosti výkonu spisové služby bezezbytku a řádně, není nepřístupný doručený dokument jiného původce naše chyba a my jsme postupovali dle práva a můžeme to kdykoliv dokázat.
+Podle dalších povinností týkajících se spisové služby také o všem tommto vedeme záznamy v transakčním protokolu, tedy jsme právně i důkazně s obliga, neboť, pokud si my plníme všechny povinnosti výkonu spisové služby bezezbytku a řádně, není nepřístupný doručený dokument jiného původce naše chyba a my jsme postupovali dle práva a můžeme to kdykoliv dokázat.
 
-#### KEKOREKTUŘE Možnost odeslat dokument také v jiném formátu
+#### Možnost odeslat dokument také v jiném formátu
 
-Vyhláška o podrobnostech výkonu spisové služby v ustanovení paragrafu týkajícího se povinných výstupních formátů umožňuje, aby byl dokument odeslán a distribuován také v jiném formátu. Je tedy povinností vždy vyhotovit a odeslat dokument ve výstupním formátu, ale v odůvodněných případech lze přiložit také ten samý dokument virem technickém formátu. To se hodí kupříkladu v případě, kdy součástí dokumentu je nějaká tabulka nebo formulář ještě je třeba vyplnit. Má to ale také své odůvodnění stran přístupnosti dokumentů. A pokud jsme v minulosti z nějakého závažné ho důvodu nemohli doručení dokument převést do výstupního formátu a zajistit mu také technologickou přístupnost, můžeme cizích doručení dokumentů rozeslat a zveřejnit také v jiném formátu a to např. ve formátu zdrojového editovatelného souboru. Tím zajistíme přístupnost u dokumentů, neboť v jiném formátu může být dokument přístupný.
+Vyhláška o podrobnostech výkonu spisové služby v ustanovení paragrafu týkajícího se povinných výstupních formátů umožňuje, aby byl dokument odeslán a distribuován také v jiném formátu. Je tedy povinností vždy vyhotovit a odeslat dokument ve výstupním formátu, ale v odůvodněných případech lze přiložit také ten samý dokument v jiném technickém formátu. To se hodí kupříkladu v případě, kdy součástí dokumentu je nějaká tabulka nebo formulář, jež je třeba vyplnit. Má to ale také své odůvodnění stran přístupnosti dokumentů. A pokud jsme v minulosti z nějakého závažného důvodu nemohli doručený dokument převést do výstupního formátu a zajistit mu také technologickou přístupnost, můžeme dokument rozeslat a zveřejnit také v jiném formátu, a to např. ve formátu zdrojového editovatelného souboru. Tím zajistíme přístupnost u dokumentů, neboť v jiném formátu může být dokument přístupný.
 
 ### Jak má správně vypadat analogová verze dokumentu, aby šla zpracovat asistivní technologií 
 
@@ -440,7 +439,7 @@ Kromě textových a statických dokumentů, které jsou ze své podstaty vhodné
     -   U záznamů, kde je to obsahově významné a vhodné, zajistit doslovný textový přepis mluveného slova
     -   Mluvené slovo na záznamu namlouvat srozumitelně, a pokud záznam obsahuje zvukový podkres pod mluveným slovem, zajistit jeho hlasitost tak nízkou, aby nerušila mluvené slovo.
 -   U obrazového záznamu a videa
-    -   Platí vše, jako u zvukového záznamu, pokud video obsahuje i zvukové stopy
+    -   Platí vše, jako u zvukového záznamu, tedy pokud video obsahuje i zvukové stopy
     -   Vhodný je také doslovný textový přepis, nebo dokonce překlad do znakového jazyka
     -   Tam, kde je to vhodné, opatřit video zvláštní zvukovou stopou audiopopisu ve správném technickém formátu
     -   Textový přepis prezentovat ve formě titulků na textovém základě v patřičném standardu pro titulky, tedy nevkládat je přímo do videostopy, ale zajistit je jako samostatný kontejner ve videu s textovým obsahem
@@ -452,5 +451,5 @@ Kromě textových a statických dokumentů, které jsou ze své podstaty vhodné
 
 Vyvarujte se následujícím věcem:
 
-1. Vytváření analogových (listinnýc) dokumentů a jejich zpětné skenování (i s OCR). Toto jednak je v rozporu s právním řádem (viz povinnosti) a jednak se tím dokument v celém svém životním cyklu zneplatní a také mimochodem nebude přístupný.
-2. Převádění digitálních dokumentů nekvalitními knihovnami jež negenerují validní výstupní formát včetně textové vrstvy a splnění požadavků na přístupnost.
+1. Vytváření analogových (listinných) dokumentů a jejich zpětné skenování (i s OCR). Toto jednak je v rozporu s právním řádem (viz povinnosti) a jednak se tím dokument v celém svém životním cyklu zneplatní a také mimochodem nebude přístupný.
+2. Převádění digitálních dokumentů nekvalitními knihovnami, jež negenerují validní výstupní formát včetně textové vrstvy a splnění požadavků na přístupnost.
