@@ -1,12 +1,13 @@
 ---
-Title: Metodika pro přístupnost dokumentů
+title: Metodika pro přístupnost dokumentů
 author: egdílna.cz
 status: Public draft
 Version: 1.0
-Date: 2022-04-é+
+date: 2022-04-01
+subtitle: Metodický dokument pro splnění povinnosti přístupnosti dokumentů veřejnoprávních původců
 ---
 
-© 2022 EGdílna.cz, volá licence CC
+© 2022 EGdílna.cz, volná licence CC
 
 OBSAH DOKUMENTU
 
