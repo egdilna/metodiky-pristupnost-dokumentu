@@ -1,5 +1,5 @@
 ---
-title Metodika pro přístupnost dokumentů
+Title: Metodika pro přístupnost dokumentů
 author: egdílna.cz
 status: Public draft
 Version: 1.0
@@ -75,7 +75,7 @@ Webová verze metodiky k náhledu a čtení
 
 Ke stažení v otevřeném editovatelném formátu
 
-- [ ] po generování doplnit URL na dokument editovatelné verze- [ ]
+- [https://github.com/egdilna/metodiky-pristupnost-dokumentu/raw/main/metodika-pristupnost-dokumentu.docx](https://github.com/egdilna/metodiky-pristupnost-dokumentu/raw/main/metodika-pristupnost-dokumentu.docx)
 
 Jakékoliv připomínky či dotazy a návrhy na změny a doplnění lze přidávat vytvořením nového Issue v repozitáři, kde lze také sledovat postup prací a již vytvořené Issues, a to [v sekci Issues v repozitáři](https://github.com/egdilna/metodiky-pristupnost-dokumentu/issues)
 
