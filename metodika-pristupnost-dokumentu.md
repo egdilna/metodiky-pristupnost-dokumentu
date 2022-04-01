@@ -41,16 +41,17 @@ Kromě obecně používaných pojmů z oblasti spisové služby, má přístupno
 -   Tagovaný obsah: Textová vrstva obsahu dokumentu, která kromě samotného textu obsahuje i jeho speciální atributy, ze kterých je zřejmé, o jaký typ obsahu se jedná a jaký je jeho význam (definuje překlad ISO specifikací)
 
 
+
 # KEKOREKTUŘE Přístupnost dokumentů
+
 
 Následuje znalostní a teoretická část, ve které se dozvíte, co je to přístupnost dokumentů a že jde o nezpochybnitelnou povinnost a také se dozvíte konkrétní přínosy, abyste pochopili, proč je to tak důležité. 
 
-## 🖋Co je přístupnost dokumentů a proč to řešit?
+## KEKOREKTUŘE Co je přístupnost dokumentů a proč to řešit?
 
 Přístupnost dokumentů je jednou ze základních schopností všech úřadů a organizací, jež jsou podle zákona veřejnoprávními původci a tedy  spravují a vy tváří dokumenty. Fakticky se jedná o způsob technické tvorby dokumentů tak, aby se s jejich obsahem a strukturou mohli plně seznámit a plně s nimi pracovat skutečně všichni uživatelé a to včetně osob se zdravotním postižením či jiným funkčním omezením.
 
-- [ ] @vladimirdvorakcz Rozveď to a trochu vysvětli, ale zase ne moc púodrobně protože technické podrobnosti jsou už v kapitole co je přístupný a nepřístupný dokument.
-- [ ] 
+
 Je důležité si v této souvislosti uvědomit několik podstatných věcí:
 
 
@@ -279,6 +280,8 @@ Obecně jde o plnění povinností. Platí, že pokud úřad řádně plní veš
 
 ## 🖋Zahrnutí přístupnosti dokumentů do správy dokumentů a procesů
 
+Přístupnost dokumentu je jednou z technických disciplín týkajících se vy tváření a a generování dokumentu vzniklých z vlastní činnosti, jedná se ale také o součást kontroly U doručených dokumentů. Tato metodika dává návody na několik způsobů, jakými přístupnost reálný řešit. Důležité ale je, že se tato oblast musí stát součástí komplexní schopnosti spisové služby a zprávy dobu.
+
 ##  Náležitosti dokumentů
 
 U dokumentů ve spisové službě jsou velice důležité jejich náležitosti. Ať už se jedná o rozhodnutí, nebo o formulář či o jiný druh dokumentu. Veřejnoprávní původci jsou povinni vytvářet jen takové dokumenty, které splňují veškeré technické požadavky a obsahové a procesní náležitosti. Celá řada z nich pak také souvisí právě s přístupností dokumentu a s jeho identifikací a určením zodpovědné osoby, která taktéž zodpovídá za přístupnost a na niž se může uživatel asistivních technologií v případě problémů a nejasností obrátit.
@@ -324,7 +327,7 @@ Ne vše si může ověřit uživatel na svém zařízení, ale vše se dá ově�
 
 V této kapitole si popíšeme to asi věcně nejdůležitější, tedy jak zajistit přístupnost u jednotlivých druhů dokumentů a to zejména podle způsobu jejich vzniku. Na tyto postupy zajištění přístupnosti je třeba vždy velice důsledně dbát.
 
-### 🖋Přístupnost pro digitální dokumenty
+### KEKOREKTUŘE Přístupnost pro digitální dokumenty
 
 Jak už bylo několikrát v tomto dokumentu nastíněno, přístupnost dokumentů je technická záležitost. Za určitých okolností sice uživatel může ovlivnit míru přístupnosti dokumentů, nicméně důležitá je technická forma a zejména aplikace, která generuje výsledný dokument do formátu PDF. Umí-li taková aplikace vytvářet přístupné a tagované dokumenty, pak je výsledek pozitivní. Pokud ale aplikace resp. komponenta pro generování a vy tváření PDF souboru na přístupnost kašle, dokument ve výsledku přístupný nebude.
 
