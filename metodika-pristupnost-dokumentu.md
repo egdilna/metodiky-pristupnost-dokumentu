@@ -141,7 +141,7 @@ Existují další charakteristiky přístupných dokumentů včetně:
 
 Instituce veřejného sektoru se souhrnně nazývají takzvanými veřejnoprávními původci. To jsou organizace a instituce, nejen úřady, které mají za povinnost tzv. výkon spisové služby. Stručně řečeno, spisová služba je vše, co se týká správy dokumentů, a to zejména u digitálních dokumentů. Tedy i přístupnost textového obsahu dokumentů je součástí této spisové služby. Proto je přístupnost dokumentů jednou z povinností výkonu spisové služby.
 
-### KEKOREKTUŘE Spisová služba jako odborná správa dokumentů
+### Spisová služba jako odborná správa dokumentů
 
 Legislativa definuje takzvané veřejnoprávní původce, což jsou organizace a subjekty, které podle příslušného zákona mají za povinnost vykonávat odbornou správu dokumentů. Tu realizují výkonem spisové služby, a to zejména spisové služby v elektronické podobě.
 
