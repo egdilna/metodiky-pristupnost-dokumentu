@@ -1,9 +1,9 @@
 ---
 title: Metodika pro přístupnost dokumentů
 author: egdílna.cz
-status: Public draft
-Version: 1.0
-date: 2022-04-01
+status: Platné
+Version: 1.1
+date: 2022-08-04
 subtitle: Metodický dokument pro splnění povinnosti přístupnosti dokumentů veřejnoprávních původců
 ---
 
@@ -82,7 +82,12 @@ Jakékoliv připomínky či dotazy a návrhy na změny a doplnění lze přidáv
 
 ## 1.3. Historie verzí
 
-Toto je první verze metodiky z března 2022. V případě dalších verzí zde bude jejich seznam a u každé verze také popis změn.
+Toto je verze 1.1 vydaná v srpnu 2022.
+
+| Verze | Kdy | Popis změn |
+|----|------|--------------|
+| 1.0 | 4/2022 | První public draft publikovaný jako již použitelný a nasaditelný do praxe. |
+| 1.1 | 8/2022 | Kapitola 2.4 s legislativním rámcem rozdělena na dvě podkapitoly a zejména přidána podkapitola [2.4.2. Závazné normy] kde jsou odkazy na obě ISO závazné normy týkající se přístupnosti a PDF/a. |
 
 ## 1.4. Významy některých technických pojmů
 
@@ -232,6 +237,8 @@ Můžeme se zabývat těmito základními způsoby vzniku vlastního dokumentu:
 
 ## 2.4. Legislativní rámec
 
+### 2.4.1. Legislativa
+
 Legislativní rámec pro přístupnost je vlastně dost obsáhlý, a tak si to rozdělme na několik vrstev. Na obecné úrovni platí principy rovného přístupu a nediskriminace, následují související předpisy k dokumentům a nakonec konkrétní ustanovení k technickému řešení přístupnosti dokumentů.
 
 Obecná úroveň:
@@ -259,6 +266,13 @@ Kromě toho jsou pro úřady závazné i následující:
 - Spisový řád vydaný každým původcem
 
 V této metodice není prostor vysvětlovat veškeré legislativní souvislosti, je třeba znát celý rámec k elektronizaci veřejné správy, jehož je přístupnost dokumentů jen jednou malou součástí.
+
+
+### 2.4.2. Závazné normy
+
+Digitální dokumenty ve veřejné správě se musí být v souladu s určitými technickými závaznými normami a standardy. Jedná se zejména o následující:
+- Na obecné technické úrovni je to pro PDF [předpis ISO 19005 (PDF/A)](https://www.pdfa.org/resource/iso-19005-pdfa/)
+- Pro přístupnost dokumentu je to závazný [předpis ISO 14289-1:2014 - Document management applications — Electronic document file format enhancement for accessibility — Part 1: Use of ISO 32000-1 (PDF/UA-1)](https://www.iso.org/standard/64599.html)
 
 ## 2.5. Povinnost vytvářet přístupné dokumenty
 
